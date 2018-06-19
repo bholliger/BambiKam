@@ -44,20 +44,22 @@ Beispielsweise verfügt das [FablabWinti](https://www.fablabwinti.ch/das-lab/aus
 
 Das SVG [BambiKam Aviatik Sperrholz 2mm.svg](../plan/BambiKam Aviatik Sperrholz 2mm.svg) soll folgendermassen gelasert werden:
 
-Reihenfolge|Farbe|Geschwindigkeit|Intensität
-1|Gelb|1000|3%
-2|Türkis|1000|75%
-3|Hellgrün|1000|75%
-4|Pink|1000|75%
-5|Schwarz|1000|75%
+| Reihenfolge | Farbe | Geschwindigkeit | Intensität |
+| --- | --- | --- | --- |
+| 1 | Gelb | 1000 | 3% |
+| 2 | Türkis | 1000 | 75% |
+| 3 | Hellgrün | 1000 | 75% |
+| 4 | Pink | 1000 | 75% |
+| 5 | Schwarz | 1000 | 75% |
 
 #### Lasern von Sperrholz 4mm
 
 Das SVG [BambiKam Sperrholz 4mm.svg](../plan/BambiKam Sperrholz 4mm.svg) soll folgendermassen gelasert werden:
 
-Reihenfolge|Farbe|Geschwindigkeit|Intensität
-1|Pink|1000|60%
-2|Schwarz|1000|60%
+| Reihenfolge | Farbe | Geschwindigkeit | Intensität |
+| --- | --- | --- | --- |
+| 1 | Pink | 1000 | 60% |
+| 2 | Schwarz | 1000 | 60% |
 
 #### Lasern von Acrylglas/PMMA 2mm
 
@@ -65,15 +67,17 @@ Das SVG [BambiKam Kamerahalter Acryl 2mm.svg](../plan/BambiKam Kamerahalter Acry
 
 Für den einfachen Halter:
 
-Reihenfolge|Farbe|Geschwindigkeit|Intensität
-1|Pink|1000|50%
-2|Schwarz|1000|50%
+| Reihenfolge | Farbe | Geschwindigkeit | Intensität |
+| --- | --- | --- | --- |
+| 1 | Pink | 1000 | 50% |
+| 2 | Schwarz | 1000 | 50% |
 
 Für den Halter, der die Kamera ganz umfasst:
 
-Reihenfolge|Farbe|Geschwindigkeit|Intensität
-1|Blau|1000|50%
-2|Rot|1000|50%
+| Reihenfolge | Farbe | Geschwindigkeit | Intensität |
+| --- | --- | --- | --- |
+| 1 | Blau | 1000 | 50% |
+| 2 | Rot | 1000 | 50% |
 
 ### Nachbearbeitung
 
