@@ -1,6 +1,6 @@
 # BambiKam
 
-![Bild der BambiKam](../bilder/bild.png)
+![Bild der BambiKam](./bilder/bild.png)
 
 ## Was ist BambiKam?
 
