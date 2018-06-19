@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="31.172245mm"
+   height="21.446241mm"
+   viewBox="0 0 31.172245 21.446241"
    id="svg99"
-   sodipodi:docname="Cam Holder.svg"
+   sodipodi:docname="BambiKam Kamerahalter Acryl 2mm.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata103">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,12 +40,16 @@
      id="namedview101"
      showgrid="false"
      inkscape:zoom="3.3640324"
-     inkscape:cx="111.86566"
-     inkscape:cy="704.23668"
+     inkscape:cx="33.830774"
+     inkscape:cy="109.73497"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Ortho_0_0" />
+     inkscape:current-layer="Ortho_0_0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <!-- Working space 0 0 297 210 -->
   <defs
      id="defs12">
@@ -52,9 +57,9 @@
        id="radialGradient3661"
        gradientUnits="userSpaceOnUse"
        cy="29.149"
-       cx="282.65"
-       gradientTransform="matrix(.14777 .23089 -.24680 .15795 -26.318 -62.617)"
-       r="19.571">
+       cx="282.64999"
+       gradientTransform="matrix(0.14777,0.23089,-0.2468,0.15795,-26.318,-62.617)"
+       r="19.570999">
       <stop
          stop-color="#71b2f8"
          offset="0"
@@ -67,10 +72,10 @@
     <radialGradient
        id="radialGradient3817"
        gradientUnits="userSpaceOnUse"
-       cy="33.9"
-       cx="270.58"
-       gradientTransform="matrix(.26631 .065024 -.17931 .73438 -60.668 -36.938)"
-       r="19.571">
+       cy="33.900002"
+       cx="270.57999"
+       gradientTransform="matrix(0.26631,0.065024,-0.17931,0.73438,-60.668,-36.938)"
+       r="19.570999">
       <stop
          stop-color="#ff6d0f"
          offset="0"
@@ -84,7 +89,7 @@
   <!-- Set display:none to hide FreeCAD Logo -->
   <g
      id="Ortho_0_0"
-     transform="rotate(0,60,127.5) translate(60,127.5) scale(1,1)"
+     transform="translate(58.015526,126.91486)"
      style="stroke:#ffd5d5">
     <g
        transform="matrix(1,0,0,-1,-127.01828,-93.739862)"
@@ -200,50 +205,50 @@
          cy="31.5"
          r="0.44999999"
          id="circle46"
-         style="stroke:#ffd5d5" />
+         style="stroke:#0000ff" />
       <circle
          cx="98.5"
          cy="13.5"
          r="0.44999999"
          id="circle48"
-         style="stroke:#ffd5d5" />
+         style="stroke:#0000ff" />
       <path
          id="24"
          d="M 79,24 H 78"
-         style="stroke:#ffd5d5"
+         style="stroke:#0000ff"
          inkscape:connector-curvature="0" />
       <path
          id="25"
          d="m 79,21 v 3"
-         style="stroke:#ffd5d5"
+         style="stroke:#0000ff"
          inkscape:connector-curvature="0" />
       <path
          id="26"
          d="m 78,21 h 1"
-         style="stroke:#ffd5d5"
+         style="stroke:#0000ff"
          inkscape:connector-curvature="0" />
       <path
          id="27"
          d="M 78,24 V 21"
-         style="stroke:#ffd5d5"
+         style="stroke:#0000ff"
          inkscape:connector-curvature="0" />
       <circle
          cx="80.5"
          cy="31.5"
          r="0.44999999"
          id="circle54"
-         style="stroke:#ffd5d5" />
+         style="stroke:#0000ff" />
       <circle
          cx="80.5"
          cy="13.5"
          r="0.44999999"
          id="circle56"
-         style="stroke:#ffd5d5" />
+         style="stroke:#0000ff" />
     </g>
   </g>
   <g
      id="Ortho_0_001"
-     transform="translate(-74.840526,33.85638)">
+     transform="translate(-76.825,33.271242)">
     <g
        transform="scale(1,-1)"
        id="g96"
