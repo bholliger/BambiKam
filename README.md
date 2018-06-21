@@ -12,17 +12,17 @@ BambiKam wurde für die Rehkitzsuche entworfen.
 
 ## Bilder! Ich will sehen wie's aussieht
 
-![Links](bilder\BambiKam_Links.jpg)
-![Rechts](bilder\BambiKam_Rechts.jpg)
-![Vorne](bilder\BambiKam_Vorne.jpg)
-![Hinten](bilder\BambiKam_Hinten.jpg)
-![Oben](bilder\BambiKam_Oben.jpg)
-![Unten](bilder\BambiKam_Unten.jpg)
+![Links](bilder/BambiKam_Links.jpg)
+![Rechts](bilder/BambiKam_Rechts.jpg)
+![Vorne](bilder/BambiKam_Vorne.jpg)
+![Hinten](bilder/BambiKam_Hinten.jpg)
+![Oben](bilder/BambiKam_Oben.jpg)
+![Unten](bilder/BambiKam_Unten.jpg)
 
 ## Was zeichnet BambiKam aus?
 
 * Inkl. Kamera, Sender und Antenne beträgt das Gewicht unter 60 Gramm.
-![Gewicht](bilder\BambiKam_Gewicht.jpg)
+![Gewicht](bilder/BambiKam_Gewicht.jpg)
 
 ## Lizenz
 
