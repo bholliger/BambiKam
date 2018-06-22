@@ -4,7 +4,7 @@
 
 ## Was ist BambiKam?
 
-BambiKam ist eine Plattform, welche es erlaubt eine FLIR BOSON Wärmebildkamera zusammen mit einem Eachine TX801-Sender und eine Cloverleaf-Antenne an eine DJI Mavic Pro/Platinum zu befestigen.
+BambiKam ist eine Plattform, welche es erlaubt eine FLIR BOSON Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und eine [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) zu befestigen.
 
 ## Für was ist BambiKam gedacht?
 
@@ -168,3 +168,13 @@ Die Kabel können durch den doppelt vorhandenen Abstandhalter gelegt werden und 
 Am besten legt man die Mavic auf den Rücken und legt die Grundplatte mit der Kamera nach unten zeigend so auf die Landekufen, dass sie durch die vertikalen Aussparungen zeigen. Die Befestigung der Grundplatte erfolgt durch das Einschieben des Splintens mit der Aussparung. Wichtig ist, dass der Splinten von links eingeschoben wird, da so die Kamera nicht verdeckt wird.
 
 ## Fliegen
+
+Das Flugverhalten der Mavic unterscheidet sich nicht, wenn die BambiKam mitgeführt wird. Der Start verläuft balanciert, da sich die Komponenten im Schwerpunkt befinden.
+
+Durch das geringe Gewicht der BambiKam wird auch die Flugzeit nicht allzu negativ beeinflusst.
+
+## Wichtige/wissenswerte Punkte
+
+* Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
+* Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
+
