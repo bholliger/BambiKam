@@ -1,4 +1,4 @@
-# BambiKam
+# BambiKam V5 22.06.2018
 
 ![Bild der BambiKam](bilder/BambiKam_CAD.png)
 
@@ -21,8 +21,7 @@ BambiKam wurde für die Rehkitzsuche entworfen.
 
 ## Was zeichnet BambiKam aus?
 
-* Inklusive Kamera, Sender und Antenne beträgt das Gewicht unter 60 Gramm.
-![Gewicht](bilder/BambiKam_Gewicht.jpg)
+* Inklusive Kamera, Sender und Antenne beträgt das Gewicht unter 60 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
 * Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 * Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und ganz normal zu fliegen.
 * Die Grundplatte hat Löcher, welche die Abstandssensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
@@ -116,9 +115,9 @@ Die Löcher müssen mit einem 1.5er Bohrer nachgebohrt werden, bis die Schrauben
 
 #### Elemente aus Aviatik-Sperrholz 2mm
 
-##### Kleine Scheibe mit Loch mit Durchmesser 6 mm
+##### Kleine Scheibe mit Loch mit Durchmesser 7 mm
 
-Die kleine Scheibe mit dem Loch mit Durchmesser von 6 mm muss mit einem Schleifpapier soweit flach geschliffen werden, dass diese aufgeklebt auf den Mast dem Sender und der Antenne guten Halt bieten. Meiner Erfahrung nach sollte die Dicke etwas 1 mm betragen.
+Die kleine Scheibe mit Loch (Durchmesser von 7 mm) muss mit einem Schleifpapier soweit flach geschliffen werden, dass diese aufgeklebt auf den Mast dem Sender und der Antenne guten Halt bieten. Meiner Erfahrung nach sollte die Dicke etwa 1 mm betragen.
 
 ### Kleben der einzelnen Elemente
 
@@ -177,4 +176,3 @@ Durch das geringe Gewicht der BambiKam wird auch die Flugzeit nicht allzu negati
 
 * Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 * Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
-
