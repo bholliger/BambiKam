@@ -1,4 +1,34 @@
-# BambiKam V5 22.06.2018
+# BambiKam V5 26.06.2018
+
+- [Was ist BambiKam?](#was-ist-bambikam)
+- [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
+- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+- [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
+- [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Lizenz](#lizenz)
+- [Beschaffung der Materialien](#beschaffung-der-materialien)
+    - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
+    - [Sperrholz 4mm](#sperrholz-4mm)
+    - [Acrylglas/PMMA 2mm](#acrylglaspmma-2mm)
+- [Anfertigen der BambiKam](#anfertigen-der-bambikam)
+    - [Lasern der einzelnen Materialien](#lasern-der-einzelnen-materialien)
+        - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
+        - [Lasern von Sperrholz 4mm](#lasern-von-sperrholz-4mm)
+        - [Lasern von Acrylglas/PMMA 2mm](#lasern-von-acrylglaspmma-2mm)
+    - [Nachbearbeitung](#nachbearbeitung)
+        - [Kamerahalter aus Acrylglas](#kamerahalter-aus-acrylglas)
+        - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
+    - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
+        - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
+        - [Rohr auf Grundplatte (Rechts)](#rohr-auf-grundplatte-rechts)
+        - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
+- [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
+    - [Kamera montieren](#kamera-montieren)
+    - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+    - [Verlegen der Kabel](#verlegen-der-kabel)
+- [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
+- [Fliegen](#fliegen)
+- [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
 ![Bild der BambiKam](bilder/BambiKam_CAD.png)
 
@@ -21,10 +51,10 @@ BambiKam wurde für die Rehkitzsuche entworfen. Damit die Mavic mit dem Velo tra
 
 ## Was zeichnet BambiKam aus?
 
-* Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 60 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
-* Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
-* Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
-* Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 60 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
+- Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
+- Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
+- Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
 
@@ -151,8 +181,9 @@ Der Kamerahalter wird auf der Seite montiert, wo die Buchse angebracht ist, welc
 Der Kamerahalter wird mit den mitgelieferten Schrauben befestigt und mit Kabelbindern an der Grundplatte befestigt.
 
 Es werden dabei zwei Kabelbinder benötigt:
-* Einem Kabelbinder wird der Binderkopf so zerschnitten, dass noch ein wenig davon übersteht und als Begrenzung dient.
-* Einem weiteren Kabelbinder wird der Binderkopf komplett abgeschnitten.
+
+- Einem Kabelbinder wird der Binderkopf so zerschnitten, dass noch ein wenig davon übersteht und als Begrenzung dient.
+- Einem weiteren Kabelbinder wird der Binderkopf komplett abgeschnitten.
 
 Die Kamera wird anschliessend mit der Linse nach unten und der Kamerahalterung Richtung Heck in das Loch eingelegt. (Falls es nicht passt, wie oben beschrieben, mit einem Streifen feinem Schleifpapier etwas nachschleifen.)
 
@@ -180,5 +211,5 @@ Durch das geringe Gewicht der BambiKam wird auch die Flugzeit nicht allzu negati
 
 ## Wichtige/wissenswerte Punkte
 
-* Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
-* Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
+- Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
+- Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
