@@ -1,4 +1,4 @@
-# BambiKam V5 26.06.2018
+# BambiKam V5 06.07.2018
 
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
