@@ -37,7 +37,7 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 
 ## Warum wurde BambiKam entworfen?
 
-BambiKam wurde für die Rehkitzsuche entworfen. Damit die Mavic mit dem Velo transportiert werden könnte, ist es wichtig, dass sie nicht mehr Platz braucht als wirklich nötig. Die Mavic kann so im nicht gefalteten Zustand in einen Koffer verstaut werden.
+BambiKam wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](https://www.rehkitzrettung.ch/)) entworfen. Damit die Mavic mit dem Velo transportiert werden könnte, ist es wichtig, dass sie nicht mehr Platz braucht als wirklich nötig. Die Mavic kann so im nicht gefalteten Zustand in einen Koffer verstaut werden.
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
