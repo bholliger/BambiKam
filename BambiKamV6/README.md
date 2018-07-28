@@ -1,4 +1,4 @@
-# BambiKam V6 (BETA) 26.07.2018
+# BambiKam V6 (BETA) 28.07.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
 - [Was ist BambiKam?](#was-ist-bambikam)
@@ -101,8 +101,6 @@ Das SVG [BambiKam_V6_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Aviatik_Sperrholz_
 
 ##### Kleine Scheibe mit Loch mit Durchmesser 7 mm
 
-> Die Scheibe wird nur benötigt, wenn auf die Verwendung des Transmittergehäuses verzichtet wird.
-
 Die kleine Scheibe mit Loch (Durchmesser von 7 mm) muss mit einem Schleifpapier soweit flach geschliffen werden, dass diese auf den Mast aufgelegt dem Sender und der Antenne guten Halt bietet. Erfahrungsgemäss sollte die Dicke knapp 1 mm betragen.
 
 ### Kamerahalterung drucken
@@ -153,10 +151,9 @@ Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die K
 Der Sender kann auf zwei Arten montiert werden
 
 #### Montage mit Gehäuse
+Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
-Der Sender wird in das Gehäuse eingeschoben und am Mast mit der Antenne verschraubt.
-
-*Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.*
+ *Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.*
 
 #### Montage ohne Gehäuse
 
