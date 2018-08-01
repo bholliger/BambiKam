@@ -1,4 +1,4 @@
-# BambiKam V6 (BETA) 28.07.2018
+# BambiKam V6 (BETA) 1.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
 - [Was ist BambiKam?](#was-ist-bambikam)
@@ -50,7 +50,7 @@ BambiKam wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](https:
 
 ## Was zeichnet BambiKam aus?
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 60 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
 - Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
@@ -115,7 +115,7 @@ TODO: Braucht es da spezielle Einstellungen?
 
 ![BambiKam_Transmittergehaeuse.png](bilder/BambiKam_Transmittergehaeuse.png)
 
-Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_Transmittergehaeuse.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### Kleben der einzelnen Elemente
 
@@ -151,19 +151,20 @@ Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die K
 Der Sender kann auf zwei Arten montiert werden
 
 #### Montage mit Gehäuse
+
 Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
- *Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.*
+>Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
 
 #### Montage ohne Gehäuse
 
 Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
-*Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.*
+>Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
 
 ### Verlegen der Kabel
 
-Die Kabel können durch den doppelt vorhandenen Abstandhalter gelegt werden und der Einfachheit halber einfach mit einem Streifen Klebeband befestigt werden.
+Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter durch den doppelt vorhandenen Abstandhalter gelegt werden und der Einfachheit halber mit zwei Kabelbindern befestigt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
