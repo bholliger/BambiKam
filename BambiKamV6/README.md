@@ -1,33 +1,35 @@
-# BambiKam V6 (BETA) 1.8.2018
+# BambiKam V6 (BETA) 3.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
-- [Was ist BambiKam?](#was-ist-bambikam)
-- [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
-- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
-- [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
-- [Lizenz](#lizenz)
-- [Materialien](#materialien)
-    - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
-    - [3D-Druck](#3d-druck)
-- [Anfertigen der BambiKam](#anfertigen-der-bambikam)
-    - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
-        - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
-    - [Kamerahalterung drucken](#kamerahalterung-drucken)
-    - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
-    - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
-        - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
-        - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
-        - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
-- [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
-    - [Kamera montieren](#kamera-montieren)
-    - [Sender und Antenne montieren](#sender-und-antenne-montieren)
-        - [Montage mit Gehäuse](#montage-mit-geh%C3%A4use)
-        - [Montage ohne Gehäuse](#montage-ohne-geh%C3%A4use)
-    - [Verlegen der Kabel](#verlegen-der-kabel)
-- [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
-- [Fliegen](#fliegen)
-- [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
+- [BambiKam V6 (BETA) 3.8.2018](#bambikam-v6-beta-382018)
+    - [Was ist BambiKam?](#was-ist-bambikam)
+    - [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
+    - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+    - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
+    - [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
+    - [Lizenz](#lizenz)
+    - [Materialien](#materialien)
+        - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
+        - [3D-Druck](#3d-druck)
+    - [Anfertigen der BambiKam](#anfertigen-der-bambikam)
+        - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
+            - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
+                - [Kleine Scheibe mit Loch mit Durchmesser 7 mm](#kleine-scheibe-mit-loch-mit-durchmesser-7-mm)
+        - [Kamerahalterung drucken](#kamerahalterung-drucken)
+        - [Gehäuse für Transmitter drucken](#gehäuse-für-transmitter-drucken)
+        - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
+            - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
+            - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
+            - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
+    - [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
+        - [Kamera montieren](#kamera-montieren)
+        - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+            - [Montage mit Gehäuse](#montage-mit-gehäuse)
+            - [Montage ohne Gehäuse](#montage-ohne-gehäuse)
+        - [Verlegen der Kabel](#verlegen-der-kabel)
+    - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
+    - [Fliegen](#fliegen)
+    - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
 ![Bild der BambiKam](bilder/BambiKam_CAD.png)
 
@@ -115,7 +117,7 @@ TODO: Braucht es da spezielle Einstellungen?
 
 ![BambiKam_Transmittergehaeuse.png](bilder/BambiKam_Transmittergehaeuse.png)
 
-Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### Kleben der einzelnen Elemente
 
