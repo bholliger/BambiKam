@@ -1,7 +1,7 @@
-# BambiKam V6 (BETA) 3.8.2018
+# BambiKam Easy V6 (BETA) 7.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
-- [BambiKam V6 (BETA) 3.8.2018](#bambikam-v6-beta-382018)
+- [BambiKam Easy V6 (BETA) 7.8.2018](#bambikam-v6-beta-382018)
     - [Was ist BambiKam?](#was-ist-bambikam)
     - [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
     - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
@@ -50,18 +50,20 @@ BambiKam wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](https:
 ![Oben](bilder/BambiKam_Oben.jpg)
 ![Unten](bilder/BambiKam_Unten.jpg)
 
-## Was zeichnet BambiKam aus?
+## Was zeichnet BambiKam Easy aus?
 
 - Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
-- Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
-- Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
-- Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
+- Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Verlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
+- Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam Easy zu entfernen und diese so als ganz normale Drohne zu verwenden.
+- Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam Easy, die Mavic mit Hilfe der Sensoren zu landen.
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
 
-Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie hat.
+Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie haben kann.
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
+
+Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
 
 ## Lizenz
 
@@ -78,12 +80,13 @@ Das Aviatik Sperrholz hat den Vorteil, dass es dünn, sehr stabil und vielschich
 
 ### 3D-Druck
 
-Die Kamerahalterung und das Gehäuse für den Transmitter wird im 3D-Druckverfahren hergestellt.
+Die Kamerahalterung und das Gehäuse für den Transmitter werden im 3D-Druckverfahren hergestellt.
 
-## Anfertigen der BambiKam
+## Anfertigen der BambiKam Easy
 
 Ist das Holz beschafft, so lässt sich die Form sehr einfach mit einem LaserCutter schneiden.
-Beispielsweise verfügt das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercutter/) über einen LaserCutter. (Neue Mitglieder sind immer herzlich willkommen!)
+Beispielsweise verfügen diverse Fablabs in der Schweiz über einen Lasercutter [Fablabs der Schweiz](https://fablab.ch/#/machine).
+So auch das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercutter/). (Neue Mitglieder sind immer herzlich willkommen!)
 
 ### Lasern von Aviatik-Sperrholz 2mm
 
@@ -94,10 +97,10 @@ Das SVG [BambiKam_V6_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Aviatik_Sperrholz_
 | Reihenfolge | Farbe    | Geschwindigkeit | Intensität |
 | ----------- | -------- | --------------- | ---------- |
 | 1           | Gelb     | 1000            | 3%         |
-| 2           | Türkis   | 1000            | 75%        |
-| 3           | Hellgrün | 1000            | 75%        |
-| 4           | Pink     | 1000            | 75%        |
-| 5           | Schwarz  | 1000            | 75%        |
+| 2           | Türkis   | 1000            | 70%        |
+| 3           | Hellgrün | 1000            | 70%        |
+| 4           | Pink     | 1000            | 70%        |
+| 5           | Schwarz  | 1000            | 70%        |
 
 #### Elemente aus Aviatik-Sperrholz 2mm
 
@@ -121,6 +124,12 @@ Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse_
 
 ### Kleben der einzelnen Elemente
 
+Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
+
+Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen sich dadurch aus, dass sie auch outdoortauglich sind und sehr gut halten.
+
+Wichtig ist anschliessend, das verleimte Produkt an der Luft zu trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
+
 #### Abstandhalter auf Grundplatte (Mitte)
 
 Die Abstandhalter stellen einen Abstand zur Drohne her, damit unter dieser die Luft etwas besser zirkulieren kann und zusätzlich die Kabel zwischen der Grundplatte und der Drohne durchgeführt werden können.
@@ -129,18 +138,19 @@ Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bild
 
 #### Aufhängung für die Kamera (Rechts)
 
-Die Halter für die Aufhängung müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet.
+Die Stützen für das Kameragehäuse müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet. Idealerweise montiert man das Kameragehäuse (ohne die Kamera einzubauen) bereits an die Stützen und hat so den perfekten Abstand.
 
-Das Kameragehäuse wird mit zwei Schrauben (M2.5, 8mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Die Kamera kann erst danach mittels den langen Schrauben des Interfaces festgeschraubt werden.
+Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden.
 
 #### Mast auf Grundplatte (Links)
 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
-Die kleine Scheibe mit Durchmesser 7mm wird nur dann benötigt, wenn auf das Kameragehäuse verzichtet wird.
+Die kleine Scheibe mit Durchmesser 7mm dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt. Die Scheibe muss nicht unbedingt festgeleimt werden.
 
-Da die Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
-Wichtig ist, an der Luft trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
+### Lackieren der BambiKam Easy
+
+Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
 
 ## Montage der Elemente auf der Grundplatte
 
@@ -150,7 +160,7 @@ Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die K
 
 ### Sender und Antenne montieren
 
-Der Sender kann auf zwei Arten montiert werden
+Der Sender kann auf zwei Arten angebracht werden
 
 #### Montage mit Gehäuse
 
@@ -166,7 +176,7 @@ Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbrin
 
 ### Verlegen der Kabel
 
-Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter durch den doppelt vorhandenen Abstandhalter gelegt werden und der Einfachheit halber mit zwei Kabelbindern befestigt werden.
+Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter können die Kabel nahe des oberen Abstandhalters entlang gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
@@ -174,9 +184,9 @@ Am besten legt man die Mavic auf den Rücken und legt die Grundplatte mit der Ka
 
 ## Fliegen
 
-Das Flugverhalten der Mavic wird durch das Mitführen der BambiKam nicht merklich verändert. Der Start verläuft balanciert, da sich die Komponenten im Schwerpunkt befinden.
+Das Flugverhalten der Mavic wird durch das Mitführen der BambiKam Easy nicht merklich verändert. Der Start verläuft balanciert, da sich die Komponenten im Schwerpunkt befinden.
 
-Durch das geringe Gewicht der BambiKam wird auch die Flugzeit nicht allzu negativ beeinflusst.
+Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu negativ beeinflusst.
 
 ## Wichtige/wissenswerte Punkte
 
