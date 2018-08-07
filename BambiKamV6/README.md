@@ -1,7 +1,7 @@
-# BambiKam V6 (BETA) 3.8.2018
+# BambiKam V6 (BETA) 7.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
-- [BambiKam V6 (BETA) 3.8.2018](#bambikam-v6-beta-382018)
+- [BambiKam V6 (BETA) 7.8.2018](#bambikam-v6-beta-382018)
     - [Was ist BambiKam?](#was-ist-bambikam)
     - [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
     - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
