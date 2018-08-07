@@ -131,16 +131,19 @@ Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bild
 
 Die Halter für die Aufhängung müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet.
 
-Das Kameragehäuse wird mit zwei Schrauben (M2.5, 8mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Die Kamera kann erst danach mittels den langen Schrauben des Interfaces festgeschraubt werden.
+Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Die Kamera kann erst danach mittels den langen Schrauben des Interfaces festgeschraubt werden.
 
 #### Mast auf Grundplatte (Links)
 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
-Die kleine Scheibe mit Durchmesser 7mm wird nur dann benötigt, wenn auf das Kameragehäuse verzichtet wird.
+Die kleine Scheibe mit Durchmesser 7mm wird dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt.
 
-Da die Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
-Wichtig ist, an der Luft trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
+Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
+
+Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen sich dadurch aus, dass sie auch outdoortauglich sind und sehr gut halten.
+
+Wichtig ist anschliessend, das verleimte Produkt an der Luft zu trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
 
 ## Montage der Elemente auf der Grundplatte
 
@@ -166,7 +169,7 @@ Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbrin
 
 ### Verlegen der Kabel
 
-Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter durch den doppelt vorhandenen Abstandhalter gelegt werden und der Einfachheit halber mit zwei Kabelbindern befestigt werden.
+Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter können die Kabel nahe des oberen Abstandhalters entlang gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
