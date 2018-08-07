@@ -124,6 +124,12 @@ Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse_
 
 ### Kleben der einzelnen Elemente
 
+Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
+
+Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen sich dadurch aus, dass sie auch outdoortauglich sind und sehr gut halten.
+
+Wichtig ist anschliessend, das verleimte Produkt an der Luft zu trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
+
 #### Abstandhalter auf Grundplatte (Mitte)
 
 Die Abstandhalter stellen einen Abstand zur Drohne her, damit unter dieser die Luft etwas besser zirkulieren kann und zusätzlich die Kabel zwischen der Grundplatte und der Drohne durchgeführt werden können.
@@ -141,12 +147,6 @@ Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
 Die kleine Scheibe mit Durchmesser 7mm wird dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt.
-
-Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
-
-Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen sich dadurch aus, dass sie auch outdoortauglich sind und sehr gut halten.
-
-Wichtig ist anschliessend, das verleimte Produkt an der Luft zu trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
 
 ## Montage der Elemente auf der Grundplatte
 
