@@ -63,7 +63,7 @@ Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet u
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
-Die BambiKam Easy sieht keine Halterung für eiben separaten Akku vor.
+Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
 
 ## Lizenz
 
@@ -146,7 +146,11 @@ Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen 
 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
-Die kleine Scheibe mit Durchmesser 7mm wird dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt.
+Die kleine Scheibe mit Durchmesser 7mm dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt. Die Scheibe muss nicht unbedingt festgeleimt werden.
+
+### Lackieren der BambiKam Easy
+
+Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
 
 ## Montage der Elemente auf der Grundplatte
 
