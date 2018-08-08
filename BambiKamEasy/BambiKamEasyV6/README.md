@@ -156,7 +156,11 @@ Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem
 
 ### Kamera montieren
 
-Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die Kamera wird mittels den langen Schrauben, die mit dem Interface mitgeliefert werden, festgeschraubt werden.
+Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die Kamera wird mittels den langen Schrauben, die mit dem Interface mitgeliefert werden, festgeschraubt.
+
+### Verlegen der Kabel
+
+Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter können die Kabel nahe des oberen Abstandhalters entlang gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ### Sender und Antenne montieren
 
@@ -164,7 +168,7 @@ Der Sender kann auf zwei Arten angebracht werden
 
 #### Montage mit Gehäuse
 
-Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
+Das Kabel wird in die kleine Halterung am Transmittergehäuse eingelegt. Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
 >Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
 
@@ -173,10 +177,6 @@ Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss,
 Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
 >Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
-
-### Verlegen der Kabel
-
-Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter können die Kabel nahe des oberen Abstandhalters entlang gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
