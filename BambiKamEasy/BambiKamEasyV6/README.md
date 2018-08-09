@@ -1,6 +1,13 @@
 # BambiKam Easy V6 (BETA) 9.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
+
+> Wo möchten Sie einsteigen?
+> - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
+> - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
+
+# Inhaltsverzeichnis
+
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
@@ -15,12 +22,12 @@
         - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
     - [Kamerahalterung drucken](#kamerahalterung-drucken)
     - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
-    - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
-        - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
-        - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
-        - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
+- [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
+    - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
+    - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
+    - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
     - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
-- [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
+- [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
     - [Kamera montieren](#kamera-montieren)
     - [Verlegen der Kabel](#verlegen-der-kabel)
     - [Sender und Antenne montieren](#sender-und-antenne-montieren)
@@ -101,6 +108,8 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Spe
 | 4           | Pink     | 1000            | 70%        |
 | 5           | Schwarz  | 1000            | 70%        |
 
+> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+
 #### Elemente aus Aviatik-Sperrholz 2mm
 
 ##### Kleine Scheibe mit Loch mit Durchmesser 7 mm
@@ -121,7 +130,7 @@ TODO: Braucht es da spezielle Einstellungen?
 
 Das STL [BambiKamEasy__Transmittergehaeuse.stl](plan/BambiKam_Easy_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
-### Kleben der einzelnen Elemente
+## Kleben der einzelnen Elemente (Bausatz zusammenbauen)
 
 Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
 
@@ -129,19 +138,19 @@ Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen s
 
 Wichtig ist anschliessend, das verleimte Produkt an der Luft zu trocknen: So verbleiben keine weissen Absonderungen des Sekundenleimes am Holz.
 
-#### Abstandhalter auf Grundplatte (Mitte)
+### Abstandhalter auf Grundplatte (Mitte)
 
 Die Abstandhalter stellen einen Abstand zur Drohne her, damit unter dieser die Luft etwas besser zirkulieren kann und zusätzlich die Kabel zwischen der Grundplatte und der Drohne durchgeführt werden können.
 
 Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bildern ersichtlich.
 
-#### Aufhängung für die Kamera (Rechts)
+### Aufhängung für die Kamera (Rechts)
 
 Die Stützen für das Kameragehäuse müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet. Idealerweise montiert man das Kameragehäuse (ohne die Kamera einzubauen) bereits an die Stützen und hat so den perfekten Abstand.
 
 Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden.
 
-#### Mast auf Grundplatte (Links)
+### Mast auf Grundplatte (Links)
 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
@@ -151,7 +160,7 @@ Die kleine Scheibe mit Durchmesser 7mm dient als Unterlagscheibe und erlaubt es,
 
 Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
 
-## Montage der Elemente auf der Grundplatte
+## Montage der Elemente auf der Grundplatte (Endmontage)
 
 ### Kamera montieren
 
@@ -163,19 +172,17 @@ Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und j
 
 ### Sender und Antenne montieren
 
-Der Sender kann auf zwei Arten angebracht werden
+>Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
+
+Der Sender kann auf zwei Arten angebracht werden:
 
 #### Montage mit Gehäuse
 
 Das Kabel wird in die kleine Halterung am Transmittergehäuse eingelegt. Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
 
->Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
-
 #### Montage ohne Gehäuse
 
 Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
-
->Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
