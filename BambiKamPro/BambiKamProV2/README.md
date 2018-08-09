@@ -17,9 +17,12 @@
     - [Lackieren der BambiKam Pro](#lackieren-der-bambikam-pro)
         - [Lüfterzähne an die lange Grundplatte](#l%C3%BCfterz%C3%A4hne-an-die-lange-grundplatte)
 - [Montage](#montage)
-    - [Anbringen der kleinen Platte](#anbringen-der-kleinen-platte)
+    - [Anbringen der unteren Platte](#anbringen-der-unteren-platte)
     - [Verlegen der Kabel](#verlegen-der-kabel)
     - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+    - [Montage der Kamera](#montage-der-kamera)
+- [Konfiguration](#konfiguration)
+    - [Programmieren des Gimbals](#programmieren-des-gimbals)
 - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
 - [Fliegen](#fliegen)
 - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
@@ -41,6 +44,8 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 
 ## Was zeichnet BambiKam Pro aus?
 
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm. ![Gewicht](bilder/BambiKam_Pro_Gewicht.jpg)
+- ...
 - ...
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
@@ -121,7 +126,7 @@ Die Lüfterzähne müssen ebenfalls nach oben zeigen und ganz vorne mittig an de
 
 ## Montage
 
-### Anbringen der kleinen Platte
+### Anbringen der unteren Platte
 
 ...
 - Gimbalsteuerung auf kleine Grundplatte schrauben.
@@ -134,6 +139,16 @@ Die Lüfterzähne müssen ebenfalls nach oben zeigen und ganz vorne mittig an de
 ### Sender und Antenne montieren
 
 >Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
+
+...
+
+### Montage der Kamera
+
+...
+
+## Konfiguration
+
+### Programmieren des Gimbals
 
 ...
 
