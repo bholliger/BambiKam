@@ -1,9 +1,13 @@
 # BambiKam
 
+> Quicklinks zu den aktuellen Versionen:
+> - [BambiKam Easy V6](BambiKamEasy/BambiKamEasyV6)
+> - [BambiKam Pro V2](BambiKamPro/BambiKamProV2)
+
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
-    - [BambiKam Easy](#bambikam-easy)
-    - [BambiKam Pro](#bambikam-pro)
+    - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
+    - [Bilder der BambiKam Pro](#bilder-der-bambikam-pro)
 - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
     - [BambiKam Easy](#bambikam-easy)
     - [BambiKam Pro](#bambikam-pro)
@@ -13,7 +17,7 @@
 - [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
 - [Lizenz](#lizenz)
 
-![Bild der BambiKam Easy](bilder/BambiKam_CAD.png)
+![Bild der BambiKam Easy](bilder/BambiKam_Easy_CAD.png)
 
 ## Was ist BambiKam?
 
@@ -21,11 +25,11 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
-### BambiKam Easy
+### Bilder der BambiKam Easy
 
-![Unten](bilder/BambiKam_Unten.jpg)
+![Unten](bilder/BambiKam_Easy_Unten.jpg)
 
-### BambiKam Pro
+### Bilder der BambiKam Pro
 
 Siehe auch weitere Bilder in der entsprechenden [Version](#versionen).
 
@@ -33,14 +37,14 @@ Siehe auch weitere Bilder in der entsprechenden [Version](#versionen).
 
 ### BambiKam Easy
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 60 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht 60 Gramm. ![Gewicht](bilder/BambiKam_Easy_Gewicht.jpg)
 - Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
 
 ### BambiKam Pro
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm. ![Gewicht](bilder/BambiKam_Pro_Gewicht.jpg)
 - 
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
@@ -59,7 +63,6 @@ Die BambiKam wird stetig weiterentwickelt. Folgende Versionen sind bisher erschi
 ### Archiv
 
 - [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte Kameraeinstellung.
-
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
