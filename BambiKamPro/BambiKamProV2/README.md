@@ -1,57 +1,58 @@
-# BambiKam Easy V6 (BETA) 9.8.2018
+# BambiKam Easy V6 (BETA) 7.8.2018
 
 > Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
-- [Was ist BambiKam?](#was-ist-bambikam)
-- [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
-- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
-- [Was zeichnet BambiKam Easy aus?](#was-zeichnet-bambikam-easy-aus)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
-- [Lizenz](#lizenz)
-- [Materialien](#materialien)
-    - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
-    - [3D-Druck](#3d-druck)
-- [Anfertigen der BambiKam Easy](#anfertigen-der-bambikam-easy)
-    - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
-        - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
-    - [Kamerahalterung drucken](#kamerahalterung-drucken)
-    - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
-    - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
-        - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
-        - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
-        - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
-    - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
-- [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
-    - [Kamera montieren](#kamera-montieren)
-    - [Verlegen der Kabel](#verlegen-der-kabel)
-    - [Sender und Antenne montieren](#sender-und-antenne-montieren)
-        - [Montage mit Gehäuse](#montage-mit-geh%C3%A4use)
-        - [Montage ohne Gehäuse](#montage-ohne-geh%C3%A4use)
-- [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
-- [Fliegen](#fliegen)
-- [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
+- [BambiKam Easy V6 (BETA) 7.8.2018](#bambikam-v6-beta-382018)
+    - [Was ist BambiKam?](#was-ist-bambikam)
+    - [Warum wurde BambiKam entworfen?](#warum-wurde-bambikam-entworfen)
+    - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+    - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
+    - [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
+    - [Lizenz](#lizenz)
+    - [Materialien](#materialien)
+        - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
+        - [3D-Druck](#3d-druck)
+    - [Anfertigen der BambiKam](#anfertigen-der-bambikam)
+        - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
+            - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
+                - [Kleine Scheibe mit Loch mit Durchmesser 7 mm](#kleine-scheibe-mit-loch-mit-durchmesser-7-mm)
+        - [Kamerahalterung drucken](#kamerahalterung-drucken)
+        - [Gehäuse für Transmitter drucken](#gehäuse-für-transmitter-drucken)
+        - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
+            - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
+            - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
+            - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
+    - [Montage der Elemente auf der Grundplatte](#montage-der-elemente-auf-der-grundplatte)
+        - [Kamera montieren](#kamera-montieren)
+        - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+            - [Montage mit Gehäuse](#montage-mit-gehäuse)
+            - [Montage ohne Gehäuse](#montage-ohne-gehäuse)
+        - [Verlegen der Kabel](#verlegen-der-kabel)
+    - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
+    - [Fliegen](#fliegen)
+    - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
-![Bild der BambiKam](bilder/BambiKam_Easy_CAD.png)
+![Bild der BambiKam](bilder/BambiKam_CAD.png)
 
 ## Was ist BambiKam?
 
 BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) zu befestigen.
 
-## Warum wurde BambiKam Easy entworfen?
+## Warum wurde BambiKam entworfen?
 
-BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](https://www.rehkitzrettung.ch/)) entworfen. Damit die Mavic mit dem Velo transportiert werden könnte, ist es wichtig, dass sie nicht mehr Platz braucht als wirklich nötig. Die Mavic kann so im nicht gefalteten Zustand in einen Koffer verstaut werden.
+BambiKam wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](https://www.rehkitzrettung.ch/)) entworfen. Damit die Mavic mit dem Velo transportiert werden könnte, ist es wichtig, dass sie nicht mehr Platz braucht als wirklich nötig. Die Mavic kann so im nicht gefalteten Zustand in einen Koffer verstaut werden.
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
-![Links](bilder/BambiKam_Easy_Links.jpg)
-![Rechts](bilder/BambiKam_Easy_Rechts.jpg)
-![Vorne](bilder/BambiKam_Easy_Vorne.jpg)
-![Hinten](bilder/BambiKam_Easy_Hinten.jpg)
-![Oben](bilder/BambiKam_Easy_Oben.jpg)
-![Unten](bilder/BambiKam_Easy_Unten.jpg)
+![Links](bilder/BambiKam_Links.jpg)
+![Rechts](bilder/BambiKam_Rechts.jpg)
+![Vorne](bilder/BambiKam_Vorne.jpg)
+![Hinten](bilder/BambiKam_Hinten.jpg)
+![Oben](bilder/BambiKam_Oben.jpg)
+![Unten](bilder/BambiKam_Unten.jpg)
 
 ## Was zeichnet BambiKam Easy aus?
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm. ![Gewicht](bilder/BambiKam_Easy_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm. ![Gewicht](bilder/BambiKam_Gewicht.jpg)
 - Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Verlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam Easy zu entfernen und diese so als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam Easy, die Mavic mit Hilfe der Sensoren zu landen.
@@ -66,7 +67,7 @@ Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
 
 ## Lizenz
 
-BambiKam Easy steht unter der Lizenz [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/ch/) und darf somit beliebig kopiert, verändert und geteilt werden unter der Bedingung, dass diese Änderungen wiederum geteilt werden und ein Hinweis auf das Ursprungsprojekt gegeben wird.
+BambiKam steht unter der Lizenz [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/ch/) und darf somit beliebig kopiert, verändert und geteilt werden unter der Bedingung, dass diese Änderungen wiederum geteilt werden und ein Hinweis auf das Ursprungsprojekt gegeben wird.
 
 Es wird keine Verantwortung übernommen.
 
@@ -89,9 +90,9 @@ So auch das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercu
 
 ### Lasern von Aviatik-Sperrholz 2mm
 
-![BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm.svg)
+![BambiKam_V6_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_V6_Aviatik_Sperrholz_2mm.svg)
 
-Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm.svg) soll folgendermassen gelasert werden:
+Das SVG [BambiKam_V6_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Aviatik_Sperrholz_2mm.svg) soll folgendermassen gelasert werden:
 
 | Reihenfolge | Farbe    | Geschwindigkeit | Intensität |
 | ----------- | -------- | --------------- | ---------- |
@@ -109,17 +110,17 @@ Die kleine Scheibe mit Loch (Durchmesser von 7 mm) muss mit einem Schleifpapier 
 
 ### Kamerahalterung drucken
 
-![BambiKam_Easy_Kameragehause.png](bilder/BambiKam_Easy_Kameragehause.png)
+![BambiKam_Kameragehause.png](bilder/BambiKam_Kameragehause.png)
 
-Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+Das STL [BambiKam_V6_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_V6_Kameragehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 TODO: Braucht es da spezielle Einstellungen?
 
 ### Gehäuse für Transmitter drucken
 
-![BambiKam_Easy_Transmittergehaeuse.png](bilder/BambiKam_Easy_Transmittergehaeuse.png)
+![BambiKam_Transmittergehaeuse.png](bilder/BambiKam_Transmittergehaeuse.png)
 
-Das STL [BambiKamEasy__Transmittergehaeuse.stl](plan/BambiKam_Easy_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+Das STL [BambiKam_Transmittergehaeuse.stl](plan/BambiKam_V6_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### Kleben der einzelnen Elemente
 
