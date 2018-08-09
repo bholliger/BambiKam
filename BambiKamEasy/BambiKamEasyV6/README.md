@@ -133,7 +133,7 @@ Das STL [BambiKamEasy__Transmittergehaeuse.stl](plan/BambiKam_Easy_Transmitterge
 
 ## Kleben der einzelnen Elemente (Bausatz zusammenbauen)
 
-Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verweden.
+Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verwenden.
 
 Beispielsweise UHU blitzschnell Supergel oder Pattex Ultra Gel. Beide zeichnen sich dadurch aus, dass sie auch outdoortauglich sind und sehr gut halten.
 
