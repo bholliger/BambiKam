@@ -107,6 +107,7 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Spe
 | 3           | Hellgrün | 1000            | 70%        |
 | 4           | Pink     | 1000            | 70%        |
 | 5           | Schwarz  | 1000            | 70%        |
+| 6           | Rot      | ignorieren      | ignorieren |
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 

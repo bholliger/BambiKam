@@ -13,7 +13,10 @@
    viewBox="0 0 136.16849 95.995018"
    id="svg1769"
    sodipodi:docname="BambiKam_Easy_Aviatik_Sperrholz_2mm.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="D:\Projects\repos-nonsw\BambiKam\BambiKamEasy\BambiKamEasyV6\bilder\BambiKam_Easy_Aviatik_Sperrholz_2mm.png"
+   inkscape:export-xdpi="300.05304"
+   inkscape:export-ydpi="300.05304">
   <metadata
      id="metadata1773">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,12 +43,12 @@
      id="namedview1771"
      showgrid="false"
      inkscape:zoom="1.7050925"
-     inkscape:cx="232.52445"
+     inkscape:cx="185.31294"
      inkscape:cy="178.99941"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1769"
+     inkscape:current-layer="g1428"
      inkscape:measure-start="469.858,41.885"
      inkscape:measure-end="468.7,151.385"
      inkscape:snap-text-baseline="false"
@@ -4022,4 +4025,11 @@
        id="circle380-2-0-4-9-9-7-8-1"
        transform="matrix(0,-1,-1,0,0,0)" />
   </g>
+  <circle
+     style="fill:none;stroke:#00ffff;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+     cx="-80.175003"
+     cy="-48.183418"
+     r="3.07425"
+     id="circle380-2-02-6-3-9-5-9"
+     transform="matrix(0,-1,-1,0,0,0)" />
 </svg>
