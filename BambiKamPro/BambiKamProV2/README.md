@@ -1,6 +1,10 @@
 # BambiKam Pro V2 (BETA) 9.8.2018
 
 > Wichtig: V2 ist derzeit noch im BETA-Stadium. Deshalb ist hier auch nocht fast nichts aktuell.
+
+> Wo möchten Sie einsteigen?
+> - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
+
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 - [Was zeichnet BambiKam Pro aus?](#was-zeichnet-bambikam-pro-aus)
@@ -12,7 +16,7 @@
 - [Anfertigen der BambiKam Pro](#anfertigen-der-bambikam-pro)
     - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
     - [Lüfterzähne drucken](#l%C3%BCfterz%C3%A4hne-drucken)
-    - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
+   - [Kleben der einzelnen Elemente](#kleben-der-einzelnen-elemente)
         - [Abstandhalter auf der langen Grundplatte](#abstandhalter-auf-der-langen-grundplatte)
     - [Lackieren der BambiKam Pro](#lackieren-der-bambikam-pro)
         - [Lüfterzähne an die lange Grundplatte](#l%C3%BCfterz%C3%A4hne-an-die-lange-grundplatte)
@@ -45,7 +49,7 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 ## Was zeichnet BambiKam Pro aus?
 
 - Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm. ![Gewicht](bilder/BambiKam_Pro_Gewicht.jpg)
-- ...
+- Jederzeit perfekt ausbalancierte, senkrecht ausgerichtete Kameraeinstellung
 - ...
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
@@ -54,7 +58,7 @@ Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet u
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
-Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
+Die BambiKam Pro könnte einen kleinen Akku aufnehmen, wenn der Sender woanders platziert wird.
 
 ## Lizenz
 
@@ -118,7 +122,7 @@ Der Abstandhalter sollte gleich hinter den vertikalen Landekufen-Aussparungen an
 
 ### Lackieren der BambiKam Pro
 
-Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
+Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Pro noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
 
 #### Lüfterzähne an die lange Grundplatte
 
@@ -154,7 +158,7 @@ Die Lüfterzähne müssen ebenfalls nach oben zeigen und ganz vorne mittig an de
 
 ## Anbringen der Grundplatte an den Kopter
 
-Am besten legt man die Mavic auf den Rücken und legt die Grundplatte mit der Kamera nach unten zeigend so auf die Landekufen, dass sie durch die vertikalen Aussparungen zeigen. Die Befestigung der Grundplatte erfolgt durch das Einschieben des Splintens mit der Aussparung. Wichtig ist, dass der Splinten von links eingeschoben wird, da so die Kamera nicht verdeckt wird.
+Am besten legt man die Mavic auf den Rücken und legt die Grundplatte so auf die Landekufen, dass sie durch die vertikalen Aussparungen zeigen. Die Befestigung der Grundplatte erfolgt durch das Einschieben des Splintens.
 
 ## Fliegen
 
