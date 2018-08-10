@@ -152,9 +152,25 @@ Die Lüfterzähne müssen ebenfalls nach oben zeigen und ganz vorne mittig an de
 
 ## Konfiguration
 
+
 ### Programmieren des Gimbals
 
-...
+
+1. Aufrufen der Seite https://www.basecamelectronics.com/downloads/8bit/
+2. Version 2.2b2 mit Hex File Downloaden
+3. Aus der Sektion 2.2b2 die folgenden Dateien herunterladen:
+- Die Firmware-Datei SimpleBGC_2_2b2.enc.hex
+- Das GUI SimpleBGC_GUI_2_2b2.zip 
+4. Das GUI installieren.
+5. Den Gimbal-Controller über USB-Kabel mit dem Computer verbinden.
+6. Starten des GUIs.
+7. Die Einstellungen gemäss folgenden Screenshots vornehmen:
+![Register Standard](bilder/BambiKam_Pro_SimpleBGC_GUI_2_2b2a.png)
+![Register Erweitert](bilder/BambiKam_Pro_SimpleBGC_GUI_2_2b2b.png)
+![Register RC Einstellungen](bilder/BambiKam_Pro_SimpleBGC_GUI_2_2b2c.png)
+
+8. Kamera 90° manuell nach unten richten.
+9. Anschliessend nacheinander "ACC KALIB“ "CALIB GYRO“ und „SCHREIBEN“ anwählen.
 
 ## Anbringen der Grundplatte an den Kopter
 
