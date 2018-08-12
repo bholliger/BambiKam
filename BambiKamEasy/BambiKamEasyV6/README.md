@@ -1,12 +1,10 @@
-# BambiKam Easy V6 (BETA) 9.8.2018
+# BambiKam Easy V6 (BETA) 12.8.2018
 
-> Wichtig: V6 ist derzeit noch im BETA-Stadium. Deshalb sind auch die Bilder noch nicht aktuell.
+> Wichtig: V6 ist derzeit noch im BETA-Stadium.
 
 > Wo möchten Sie einsteigen?
 > - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
 > - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
-
-# Inhaltsverzeichnis
 
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
@@ -49,12 +47,12 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
-![Links](bilder/BambiKam_Easy_Links.jpg)
 ![Rechts](bilder/BambiKam_Easy_Rechts.jpg)
+![Links](bilder/BambiKam_Easy_Links.jpg)
 ![Vorne](bilder/BambiKam_Easy_Vorne.jpg)
-![Hinten](bilder/BambiKam_Easy_Hinten.jpg)
 ![Oben](bilder/BambiKam_Easy_Oben.jpg)
-![Unten](bilder/BambiKam_Easy_Unten.jpg)
+![Rechts mit Drohne](bilder/BambiKam_Easy_Rechts_Mit_Drohne.jpg)
+![Unten mit Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
 
 ## Was zeichnet BambiKam Easy aus?
 
@@ -199,3 +197,4 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
+- Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
