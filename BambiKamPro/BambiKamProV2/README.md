@@ -170,7 +170,7 @@ Die Lüfterzähne müssen ebenfalls nach oben zeigen und ganz vorne mittig an de
    ![Register Erweitert](bilder/BambiKam_Pro_SimpleBGC_GUI_2_2b2b.png)
    ![Register RC Einstellungen](bilder/BambiKam_Pro_SimpleBGC_GUI_2_2b2c.png)
 8. Kamera 90° manuell nach unten richten.
-9.  Anschliessend nacheinander "ACC KALIB“ "CALIB GYRO“ und „SCHREIBEN“ anwählen.
+9. Anschliessend nacheinander "ACC KALIB“ "CALIB GYRO“ und „SCHREIBEN“ anwählen.
 
 ## Anbringen der Grundplatte an den Kopter
 
