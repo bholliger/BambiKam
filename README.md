@@ -27,7 +27,8 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 
 ### Bilder der BambiKam Easy
 
-![Unten](bilder/BambiKam_Easy_Unten.jpg)
+![Unten](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
+![Unten](bilder/BambiKam_Easy_Links.jpg)
 
 ### Bilder der BambiKam Pro
 
