@@ -25,6 +25,7 @@
     - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
     - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
     - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
+    - [Löten der Verbindungskabel](#l%C3%B6ten-der-verbindungskabel)
 - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
     - [Kamera montieren](#kamera-montieren)
     - [Verlegen der Kabel](#verlegen-der-kabel)
@@ -153,11 +154,17 @@ Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen 
 
 Die Stützelemente und der eigentliche Mast bilden die Halterung für den Sender und die Antenne.
 
-Die kleine Scheibe mit Durchmesser 7mm dient als Unterlagscheibe und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt. Die Scheibe muss nicht unbedingt festgeleimt werden.
+Die kleine Scheibe mit Durchmesser 7mm dient als Unterlagscheibe (wenn das Transmitter-Gehäuse nicht verwendet wird) und erlaubt es, die Antenne optimal anzubringen, damit diese nicht wackelt. Die Scheibe muss nicht unbedingt festgeleimt werden.
 
 ### Lackieren der BambiKam Easy
 
 Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem schützenden Klarlack lackiert werden. Die allenfalls zuvor schon angebrachten Elemente sollten aber entfernt werden.
+
+### Löten der Verbindungskabel
+
+![Verkabelung](bilder/BambiKam_Easy_Verkabelung.png)
+
+Mit dem Transmitter wird ein Kabel mit einem JST GH 1.25-5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können.
 
 ## Montage der Elemente auf der Grundplatte (Endmontage)
 
@@ -167,7 +174,7 @@ Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die K
 
 ### Verlegen der Kabel
 
-Die Kabel des Transmitters können durch die Lasche am Transmittergehäuse und jene der Kamera durch die Lasche am Kameragehäuse geführt werden. Weiter können die Kabel nahe des oberen Abstandhalters entlang gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
+Die Kabel können nahe des oberen Abstandhalters entlang oder mittig, zwischen die zwei grossen Löcher, gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ### Sender und Antenne montieren
 
@@ -177,7 +184,7 @@ Der Sender kann auf zwei Arten angebracht werden:
 
 #### Montage mit Gehäuse
 
-Das Kabel wird in die kleine Halterung am Transmittergehäuse eingelegt. Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die holzige Unterlagscheibe, welche schon flachgeschliffen wurde, am Mast anbringen und gut anziehen. Die Antenne soll dabei nach vorne zeigen.
+Das Kabel wird in die kleine Halterung am Transmittergehäuse eingelegt. Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die Antenne soll dabei nach vorne zeigen.
 
 #### Montage ohne Gehäuse
 
