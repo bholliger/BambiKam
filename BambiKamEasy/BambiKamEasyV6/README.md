@@ -164,7 +164,7 @@ Um das Holz vor Feuchtigkeit zu schützen, kann die BambiKam Easy noch mit einem
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung.png)
 
-Mit dem Transmitter wird ein Kabel mit einem JST GH 1.25-5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können.
+Mit dem Transmitter wird ein Kabel mit einem JST GH 1.25-5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
 
 ## Montage der Elemente auf der Grundplatte (Endmontage)
 
@@ -174,7 +174,7 @@ Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die K
 
 ### Verlegen der Kabel
 
-Die Kabel können nahe des oberen Abstandhalters entlang oder mittig, zwischen die zwei grossen Löcher, gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
+Die Kabel können (je nach Länge) nahe des oberen Abstandhalters entlang oder mittig, zwischen die zwei grossen Löcher, gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
 
 ### Sender und Antenne montieren
 
