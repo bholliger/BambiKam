@@ -4,37 +4,36 @@
 > - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
 > - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
 
-- [BambiKam Easy V6 20.8.2018](#bambikam-easy-v6-2082018)
-    - [Was ist BambiKam?](#was-ist-bambikam)
-    - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
-    - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
-    - [Was zeichnet BambiKam Easy aus?](#was-zeichnet-bambikam-easy-aus)
-    - [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
-    - [Lizenz](#lizenz)
-    - [Materialien](#materialien)
-        - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
-        - [3D-Druck](#3d-druck)
-    - [Anfertigen der BambiKam Easy](#anfertigen-der-bambikam-easy)
-        - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
-            - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
-                - [Kleine Scheibe mit Loch mit Durchmesser 7 mm](#kleine-scheibe-mit-loch-mit-durchmesser-7-mm)
-        - [Kamerahalterung drucken](#kamerahalterung-drucken)
-        - [Gehäuse für Transmitter drucken](#gehäuse-für-transmitter-drucken)
-    - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
-        - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
-        - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
-        - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
-        - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
-        - [Löten der Verbindungskabel](#löten-der-verbindungskabel)
-    - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
-        - [Kamera montieren](#kamera-montieren)
-        - [Verlegen der Kabel](#verlegen-der-kabel)
-        - [Sender und Antenne montieren](#sender-und-antenne-montieren)
-            - [Montage mit Gehäuse](#montage-mit-gehäuse)
-            - [Montage ohne Gehäuse](#montage-ohne-gehäuse)
-    - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
-    - [Fliegen](#fliegen)
-    - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
+- [Was ist BambiKam?](#was-ist-bambikam)
+- [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
+- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+- [Was zeichnet BambiKam Easy aus?](#was-zeichnet-bambikam-easy-aus)
+- [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Lizenz](#lizenz)
+- [Materialien](#materialien)
+    - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
+    - [3D-Druck](#3d-druck)
+- [Anfertigen der BambiKam Easy](#anfertigen-der-bambikam-easy)
+    - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
+        - [Elemente aus Aviatik-Sperrholz 2mm](#elemente-aus-aviatik-sperrholz-2mm)
+    - [Kamerahalterung drucken](#kamerahalterung-drucken)
+    - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
+- [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
+    - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
+    - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
+    - [Mast auf Grundplatte (Links)](#mast-auf-grundplatte-links)
+    - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
+    - [Löten der Verbindungskabel](#l%C3%B6ten-der-verbindungskabel)
+- [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
+    - [Kamera montieren](#kamera-montieren)
+    - [Verlegen der Kabel](#verlegen-der-kabel)
+    - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+        - [Montage mit Gehäuse](#montage-mit-geh%C3%A4use)
+        - [Montage ohne Gehäuse](#montage-ohne-geh%C3%A4use)
+- [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
+- [Fliegen](#fliegen)
+- [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
+- [Testflug](#testflug)
 
 ![Bild der BambiKam](bilder/BambiKam_Easy_CAD.png)
 
@@ -206,3 +205,12 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
 - Die FLIR Boson 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
+
+## Testflug
+
+Datum: 19.08.2018 10:15
+Wetter: Wolkenloser Himmel, 22°C, Wind 5 km/h
+Testszenario: Wiederholter Wegpunktflug des folgenden Tracks: https://flylitchi.com/hub?m=hBNMMruee6#
+Zeitmessung: Ab Start des 1. Missionsdurchganges (ein Meter ab Boden)  bis zum ertönen des Akku-Alarms (30%)
+
+Erreichte Zeit: 17 Minuten 2 Sekunden
