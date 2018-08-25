@@ -12,6 +12,7 @@
     - [BambiKam Easy](#bambikam-easy)
     - [BambiKam Pro](#bambikam-pro)
 - [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
 - [Versionen](#versionen)
     - [Archiv](#archiv)
 - [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
@@ -54,6 +55,21 @@ Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet u
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
+## Was ist der Unterschied zwischen den beiden BambiKams?
+
+Die Pro-Variante verfügt über ein Gimbal, welches die Bewegungen des Quadcopters ausgleicht und so ein stabileres, ruhigeres Bild zum Boden senden kann. Ein Vergleich der beiden Varianten kann in diesem Video nachvollzogen werden:
+
+<https://www.youtube.com/watch?v=tX6mUmYXcQ0>
+
+Das Hauptaugenmerk bei der Easy-Variante wurde auf die folgende Punkte gelegt:
+
+- Minimalstes Gewicht
+- Einfachste Handhabung
+    - Keine Fussverlängerungen
+    - Einfaches Entfernen
+    - Sensoren können weiterhin verwendet werden
+- Kompakte Abmessungen
+
 ## Versionen
 
 Die BambiKam wird stetig weiterentwickelt. Folgende Versionen sind bisher erschienen:
@@ -63,7 +79,7 @@ Die BambiKam wird stetig weiterentwickelt. Folgende Versionen sind bisher erschi
 
 ### Archiv
 
-- [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte Kameraeinstellung.
+- [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte, fixe Kameraeinstellung.
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
