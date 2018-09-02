@@ -1,4 +1,4 @@
-# BambiKam Pro V2 (BETA) 9.8.2018
+# BambiKam Pro V2 (BETA) 2.9.2018
 
 > Wichtig: V2 ist derzeit noch im BETA-Stadium. Deshalb ist hier auch nocht fast nichts aktuell.
 

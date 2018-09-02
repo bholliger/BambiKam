@@ -1,4 +1,4 @@
-# BambiKam Easy V6 20.8.2018
+# BambiKam Easy V6 2.9.2018
 
 > Wo möchten Sie einsteigen?
 > - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
