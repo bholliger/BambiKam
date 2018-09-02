@@ -30,6 +30,7 @@
 - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
 - [Fliegen](#fliegen)
 - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
+- [Testflug](#testflug)
 
 ![Bild der BambiKam Pro](bilder/BambiKam_Pro_CAD.png)
 
@@ -89,12 +90,12 @@ So auch das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercu
 
 Das SVG [BambiKam_Pro_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Pro_Aviatik_Sperrholz_2mm.svg) soll folgendermassen gelasert werden:
 
-| Reihenfolge | Farbe    | Geschwindigkeit | Intensität |
-| ----------- | -------- | --------------- | ---------- |
-| 1           | Gelb     | 1000            | 3%         |
-| 2           | Pink     | 1000            | 70%        |
-| 3           | Schwarz  | 1000            | 70%        |
-| 4           | Rot      | ignorieren      | ignorieren |
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Gelb    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 70%        |
+| 3           | Schwarz | 1000            | 70%        |
+| 4           | Rot     | ignorieren      | ignorieren |
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 
@@ -178,9 +179,24 @@ Am besten legt man die Mavic auf den Rücken und legt die Grundplatte so auf die
 
 ## Fliegen
 
+Schalten Sie *vor* dem Abheben das "Vision Positioning System" aus. Sie finden dieses in den Einstellungen von Litchi unter dem Punkt "Vision Positioning System". Werden die Sensoren nicht deaktiviert, so wird die Mavic unsteuerbar steigen (ca. 10 Meter), bis das System eine Fehlfunktion der Sensoren erkennt und diese dann ignoriert.
+
 Das Flugverhalten der Mavic wird durch das Mitführen der BambiKam Pro nicht gross verändert. Der Start verläuft balanciert, da sich die Komponenten im Schwerpunkt befinden.
 
 ## Wichtige/wissenswerte Punkte
 
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
+- Vor dem Start muss das "Vision Positioning System" deaktiviert werden.
+
+
+## Testflug
+
+|                       |                                                                                                |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| Datum:                | 19.08.2018 10:35                                                                               |
+| Wetter:               | Wolkenloser Himmel, 22°C, Wind 5 km/h                                                          |
+| Testszenario:         | Wiederholter Wegpunktflug des folgenden Tracks: https://flylitchi.com/hub?m=hBNMMruee6#        |
+| Zeitmessung:          | Ab Start des 1. Missionsdurchganges (ein Meter ab Boden) bis zum Ertönen des Akku-Alarms (30%) |
+| __Erreichte Zeiten:__ | __14 Minuten 20 Sekunden__ (Ausrichtung des Kopters immer gleich)                              |
+| __Erreichte Zeiten:__ | __14 Minuten 57 Sekunden__ (Vorwärtsflug)                                                      |

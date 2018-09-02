@@ -212,6 +212,6 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 | ------------------- | ---------------------------------------------------------------------------------------------- |
 | Datum:              | 19.08.2018 10:15                                                                               |
 | Wetter:             | Wolkenloser Himmel, 22°C, Wind 5 km/h                                                          |
-| Testszenario:       | Wiederholter Wegpunktflug des folgenden Tracks: https://flylitchi.com/hub?m=hBNMMruee6#        |
+| Testszenario:       | Wiederholter Wegpunktflug des folgenden Tracks: <https://flylitchi.com/hub?m=hBNMMruee6#>      |
 | Zeitmessung:        | Ab Start des 1. Missionsdurchganges (ein Meter ab Boden) bis zum Ertönen des Akku-Alarms (30%) |
-| __Erreichte Zeit:__ | __17 Minuten 2 Sekunden__                                                                      |
+| __Erreichte Zeit:__ | __17 Minuten 2 Sekunden__ (Vorwärtsflug)                                                       |
