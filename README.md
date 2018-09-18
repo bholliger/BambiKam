@@ -2,6 +2,7 @@
 
 > Quicklinks zu den aktuellen Versionen:
 > - [BambiKam Easy V6](BambiKamEasy/BambiKamEasyV6)
+> - [BambiKam Easy V8 BETA](BambiKamEasy/BambiKamEasyV8)
 > - [BambiKam Pro V2](BambiKamPro/BambiKamProV2)
 
 - [Was ist BambiKam?](#was-ist-bambikam)
@@ -13,6 +14,7 @@
     - [BambiKam Pro](#bambikam-pro)
 - [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
 - [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
+- [Kann die BambiKam auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-auch-an-die-mavic-2-befestigt-werden)
 - [Versionen](#versionen)
     - [Archiv](#archiv)
 - [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
@@ -70,10 +72,15 @@ Das Hauptaugenmerk bei der Easy-Variante wurde auf die folgende Punkte gelegt:
     - Sensoren können weiterhin verwendet werden
 - Kompakte Abmessungen
 
+## Kann die BambiKam auch an die Mavic 2 befestigt werden?
+
+Nein, derzeit gibt es noch keine BambiKam, welche die Mavic 2 unterstützt. Die Landekufen der Mavic 2 wurden neu gestaltet und es muss erst wieder eine Lösung gefunden werden.
+
 ## Versionen
 
 Die BambiKam wird stetig weiterentwickelt. Folgende Versionen sind bisher erschienen:
 
+- [BambiKam Easy V8 BETA](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert.
 - [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
 - [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
