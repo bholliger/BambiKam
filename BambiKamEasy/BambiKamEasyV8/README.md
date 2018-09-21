@@ -27,8 +27,8 @@
     - [Anbringen des Transmittergehäuses](#anbringen-des-transmittergeh%C3%A4uses)
         - [Transmittergehäuse für den Eachine TX801-Transmitter](#transmittergeh%C3%A4use-f%C3%BCr-den-eachine-tx801-transmitter)
         - [Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter](#transmittergeh%C3%A4use-f%C3%BCr-den-speedybee-vtx-dvr-transmitter)
-    - [Löten der Verbindungskabel für den TX801-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-tx801-transmitter)
-    - [Löten der Verbindungskabel für den TX801-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-tx801-transmitter)
+        - [Löten der Verbindungskabel für den TX801-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-tx801-transmitter)
+        - [Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-speedybee-vtx-dvr-transmitter)
 - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
     - [Kamera montieren](#kamera-montieren)
     - [Verlegen der Kabel](#verlegen-der-kabel)
@@ -160,17 +160,19 @@ Das Transmittergehäuse für den TX801-Transmitter wird direkt auf die Grundplat
 
 #### Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter
 
-Das Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter wird mit dem Deckeln nach aussen aufgeklebt. Die Antenne zeigt auch hier nach vorne.
+Das Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter wird mit dem Deckel nach aussen aufgeklebt. Die Antenne zeigt auch hier nach vorne.
 
-### Löten der Verbindungskabel für den TX801-Transmitter
+#### Löten der Verbindungskabel für den TX801-Transmitter
 
-![Verkabelung](bilder/BambiKam_Easy_Verkabelung.png)
+![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TX801.png)
 
-Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25-5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
+Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
 
-### Löten der Verbindungskabel für den TX801-Transmitter
+#### Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter
 
-TODO: Grafik erstellen und beschreiben.
+![Verkabelung](bilder/BambiKam_Easy_Verkabelung_SpeedyBee-VTX-DVR.png)
+
+Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
 
 ## Montage der Elemente auf der Grundplatte (Endmontage)
 
