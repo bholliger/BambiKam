@@ -1,4 +1,4 @@
-# BambiKam Easy V8 18.9.2018 [BETA]
+# BambiKam Easy V8 21.9.2018 [BETA]
 
 > Die BambiKam V8 ist noch im BETA-Stadium. Deswegen ist noch nicht alles auf dem aktuellsten Stand.
 
