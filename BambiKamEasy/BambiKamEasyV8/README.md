@@ -1,4 +1,4 @@
-# BambiKam Easy V8 21.9.2018 [BETA]
+# BambiKam Easy V8 22.9.2018 [BETA]
 
 > Die BambiKam V8 ist noch im BETA-Stadium. Deswegen ist noch nicht alles auf dem aktuellsten Stand.
 
@@ -43,6 +43,8 @@
 ## Was ist BambiKam?
 
 BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) zu befestigen.
+
+Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch.
 
 ## Warum wurde BambiKam Easy entworfen?
 
@@ -119,8 +121,6 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Spe
 ![BambiKam_Easy_Kameragehause.png](bilder/BambiKam_Easy_Kameragehause.png)
 
 Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
-
-TODO: Braucht es da spezielle Einstellungen?
 
 ### Gehäuse für Transmitter drucken
 
@@ -205,7 +205,7 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
-- Die FLIR Boson 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
+- Die FLIR Boson 640 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
 
 ## Testflug mit der BambiKam V6
 

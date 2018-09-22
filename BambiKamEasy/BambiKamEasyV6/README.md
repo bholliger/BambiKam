@@ -204,7 +204,7 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
-- Die FLIR Boson 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
+- Die FLIR Boson 640 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
 
 ## Testflug
 
