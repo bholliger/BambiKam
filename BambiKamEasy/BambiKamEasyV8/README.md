@@ -29,10 +29,10 @@
         - [Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter](#transmittergeh%C3%A4use-f%C3%BCr-den-speedybee-vtx-dvr-transmitter)
         - [Löten der Verbindungskabel für den TX801-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-tx801-transmitter)
         - [Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-speedybee-vtx-dvr-transmitter)
-- [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
-    - [Kamera montieren](#kamera-montieren)
     - [Verlegen der Kabel](#verlegen-der-kabel)
     - [Sender und Antenne montieren](#sender-und-antenne-montieren)
+- [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
+    - [Kamera montieren](#kamera-montieren)
 - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
 - [Fliegen](#fliegen)
 - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
@@ -76,7 +76,7 @@ Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
 
 ## Kann die BambiKam auch an die Mavic 2 befestigt werden?
 
-Nein, derzeit gibt es noch keine BambiKam, welche die Mavic 2 unterstützt. Die Landekufen der Mavic 2 wurden neu gestaltet und es muss erst wieder eine Lösung gefunden werden.
+Nein, derzeit kann die BambiKam Easy noch nicht an eine Mavic 2 montiert werden. Die Landekufen der Mavic 2 wurden neu gestaltet und es muss erst wieder eine Lösung gefunden werden.
 
 ## Lizenz
 
@@ -98,6 +98,7 @@ Die Kamerahalterung und das Gehäuse für den Transmitter werden im 3D-Druckverf
 ## Anfertigen der BambiKam Easy
 
 Ist das Holz beschafft, so lässt sich die Form sehr einfach mit einem LaserCutter schneiden.
+
 Beispielsweise verfügen diverse Fablabs in der Schweiz über einen Lasercutter [Fablabs der Schweiz](https://fablab.ch/#/machine).
 So auch das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercutter/). (Neue Mitglieder sind immer herzlich willkommen!)
 
@@ -110,8 +111,8 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Spe
 | Reihenfolge | Farbe    | Geschwindigkeit | Intensität |
 | ----------- | -------- | --------------- | ---------- |
 | 1           | Gelb     | 1000            | 3%         |
-| 2           | Pink     | 1000            | 70%        |
-| 3           | Schwarz  | 1000            | 70%        |
+| 2           | Pink     | 1000            | 65%        |
+| 3           | Schwarz  | 1000            | 65%        |
 | 4           | Rot      | ignorieren      | ignorieren |
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
@@ -166,29 +167,37 @@ Das Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter wird mit dem Deck
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TX801.png)
 
-Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
+Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist ein XT30-Stecker zu sehen.
 
 #### Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_SpeedyBee-VTX-DVR.png)
 
-Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist eine XT30-Buchse zu sehen.
-
-## Montage der Elemente auf der Grundplatte (Endmontage)
-
-### Kamera montieren
-
-Die Kamera kann erst nach der Montage der Kamerahalterung montiert werden. Die Kamera wird mittels den langen Schrauben, die mit dem Interface mitgeliefert werden, festgeschraubt.
+Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist ein XT30-Stecker zu sehen.
 
 ### Verlegen der Kabel
 
-Die Kabel können (je nach Länge) nahe des oberen Abstandhalters entlang oder mittig, zwischen die zwei grossen Löcher, gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern befestigt werden.
+Die Kabel können (je nach Länge) nahe des oberen Abstandhalters entlang oder mittig, zwischen die zwei grossen Löcher, gelegt werden und der Einfachheit halber mit zwei kleinen Kabelbindern oder Flüssiggummi befestigt werden.
 
 ### Sender und Antenne montieren
 
 >Es ist wichtig, dass die Antenne während des Betriebes nicht abfallen kann. Wird der Sender ohne Antenne betrieben, kann dieser beschädigt werden.
 
-Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die Antenne soll dabei nach vorne zeigen.
+Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die Antenne soll dabei nach vorne zeigen. Die Antenne muss anschliessend mit einem Schraubenschlüssel gut angezogen werden. Wichtig ist, dass sich die Antenne nicht mehr selbständig in der Fassung drehen kann.
+
+## Montage der Elemente auf der Grundplatte (Endmontage)
+
+### Kamera montieren
+
+Bevor die Kamera  montiert werden kann, muss das Interface auf die Kamera aufgesteckt werden. Der Stecker ist nicht leichtgängig und es kann helfen, wenn man das Interface vorsichtig mit den kurzen Schrauben an der Kamera festschraubt.
+
+![rhp-bos-vpc-if](.\bilder\BambiKam_Easy_rhp-bos-vpc-if.png)
+
+Wenn kein Spalt mehr zwischen Interface und Kamera vorhanden ist, können die Schrauben wieder gelöst werden und die Kamera mit Interface in das Gehäuse auf der rechten Seite eingeschoben werden. Dabei ist darauf zu achten, dass die Ausrichtung des nach oben zeigenden Steckers des Interfaces korrekt ist.
+
+Die Befestigung erfolgt mit den langen Schrauben, welche mit dem Interface mitgeliefert wurden.
+
+Der Stecker des Kabels muss anschliessend noch auf dem Interface aufgesteckt werden.
 
 ## Anbringen der Grundplatte an den Kopter
 
@@ -205,7 +214,7 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
-- Die FLIR Boson 640 50° (8.7 mm) eignet sich auf Grund der Objektivgrösse nicht für die BambiKam Easy.
+- Die BambiKam Easy ist derzeit nur für die [FLIR Boson](https://www.oemcameras.com/thermal-imaging-cameras/thermal-imaging-cores/flir-boson-series.htm) [320 50° (4.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-4mm.htm) oder [34° (6.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-6mm.htm) und das [Interface Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm) ausgelegt. 
 
 ## Testflug mit der BambiKam V6
 
