@@ -1,6 +1,6 @@
-# BambiKam Easy V8 22.9.2018 [BETA]
+# BambiKam Easy V8 30.9.2018 [BETA]
 
-> Die BambiKam V8 ist noch im BETA-Stadium. Deswegen ist noch nicht alles auf dem aktuellsten Stand.
+> Die Dokumentation von BambiKam V8 ist noch im BETA-Stadium. Deswegen fehlen beispielsweise noch die fertigen STL für die SpeedyBee und eine Reihe aktueller Fotos.
 
 > Wo möchten Sie einsteigen?
 > - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
