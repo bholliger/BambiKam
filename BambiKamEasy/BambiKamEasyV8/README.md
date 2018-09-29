@@ -191,7 +191,7 @@ Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss,
 
 Bevor die Kamera  montiert werden kann, muss das Interface auf die Kamera aufgesteckt werden. Der Stecker ist nicht leichtgängig und es kann helfen, wenn man das Interface vorsichtig mit den kurzen Schrauben an der Kamera festschraubt.
 
-![rhp-bos-vpc-if](.\bilder\BambiKam_Easy_rhp-bos-vpc-if.png)
+![rhp-bos-vpc-if](./bilder/BambiKam_Easy_rhp-bos-vpc-if.png)
 
 Wenn kein Spalt mehr zwischen Interface und Kamera vorhanden ist, können die Schrauben wieder gelöst werden und die Kamera mit Interface in das Gehäuse auf der rechten Seite eingeschoben werden. Dabei ist darauf zu achten, dass die Ausrichtung des nach oben zeigenden Steckers des Interfaces korrekt ist.
 
