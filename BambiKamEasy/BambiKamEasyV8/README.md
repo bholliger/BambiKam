@@ -3,8 +3,8 @@
 > Die BambiKam V8 ist noch im BETA-Stadium. Deswegen ist noch nicht alles auf dem aktuellsten Stand.
 
 > Wo möchten Sie einsteigen?
-> - [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
-> - [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
+> - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
+> - [Montage der Kamera (Endmontage)](#montage-der-kamera-endmontage)
 
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
@@ -20,7 +20,7 @@
     - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
     - [Kamerahalterung drucken](#kamerahalterung-drucken)
     - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
-- [Kleben der einzelnen Elemente (Bausatz zusammenbauen)](#kleben-der-einzelnen-elemente-bausatz-zusammenbauen)
+- [Bausatz zusammenbauen](#bausatz-zusammenbauen)
     - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
     - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
     - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
@@ -31,7 +31,7 @@
         - [Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter](#l%C3%B6ten-der-verbindungskabel-f%C3%BCr-den-speedybee-vtx-dvr-transmitter)
     - [Verlegen der Kabel](#verlegen-der-kabel)
     - [Sender und Antenne montieren](#sender-und-antenne-montieren)
-- [Montage der Elemente auf der Grundplatte (Endmontage)](#montage-der-elemente-auf-der-grundplatte-endmontage)
+- [Montage der Kamera (Endmontage)](#montage-der-kamera-endmontage)
     - [Kamera montieren](#kamera-montieren)
 - [Anbringen der Grundplatte an den Kopter](#anbringen-der-grundplatte-an-den-kopter)
 - [Fliegen](#fliegen)
@@ -129,7 +129,7 @@ Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_Easy_Kamerageh
 
 Das STL [BambiKamEasy__Transmittergehaeuse.stl](plan/BambiKam_Easy_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
-## Kleben der einzelnen Elemente (Bausatz zusammenbauen)
+## Bausatz zusammenbauen
 
 Da die zu leimenden Elemente voneinander abhängen und relativ rasch halten müssen, empfiehlt es sich hier einen holztauglichen Sekundenleim zu verwenden.
 
@@ -185,7 +185,7 @@ Die Kabel können (je nach Länge) nahe des oberen Abstandhalters entlang oder m
 
 Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss, dass die quadratische Fläche um das Antennengewinde plan mit dem Gehäuse ist. Die Antenne soll dabei nach vorne zeigen. Die Antenne muss anschliessend mit einem Schraubenschlüssel gut angezogen werden. Wichtig ist, dass sich die Antenne nicht mehr selbständig in der Fassung drehen kann.
 
-## Montage der Elemente auf der Grundplatte (Endmontage)
+## Montage der Kamera (Endmontage)
 
 ### Kamera montieren
 
