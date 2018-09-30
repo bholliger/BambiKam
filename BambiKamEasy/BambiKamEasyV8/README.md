@@ -1,6 +1,8 @@
 # BambiKam Easy V8 30.9.2018 [BETA]
 
-> Die Dokumentation von BambiKam V8 ist noch im BETA-Stadium. Deswegen fehlen beispielsweise noch die fertigen STL für die SpeedyBee und eine Reihe aktueller Fotos.
+> Die Dokumentation von BambiKam V8 ist noch im BETA-Stadium. Deswegen fehlen beispielsweise noch eine Reihe aktueller Fotos.
+
+> Bitte folgende Punkte beachten: [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
 > Wo möchten Sie einsteigen?
 > - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
@@ -20,6 +22,8 @@
     - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
     - [Kamerahalterung drucken](#kamerahalterung-drucken)
     - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
+        - [Gehäuse für Eachine TX801](#geh%C3%A4use-f%C3%BCr-eachine-tx801)
+        - [Gehäuse für SpeedyBee VTX-DVR](#geh%C3%A4use-f%C3%BCr-speedybee-vtx-dvr)
 - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
     - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
     - [Aufhängung für die Kamera (Rechts)](#aufh%C3%A4ngung-f%C3%BCr-die-kamera-rechts)
@@ -125,9 +129,19 @@ Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_Easy_Kamerageh
 
 ### Gehäuse für Transmitter drucken
 
-![BambiKam_Easy_Transmittergehaeuse.png](bilder/BambiKam_Easy_Transmittergehaeuse.png)
+Die BambiKam Easy kann entweder mit dem Eachine TX801 oder mit dem SpeedyBee VTX-DVR ausgestattet werden.
 
-Das STL [BambiKamEasy__Transmittergehaeuse.stl](plan/BambiKam_Easy_Transmittergehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+#### Gehäuse für Eachine TX801
+
+![BambiKam_Easy_Transmittergehaeuse_Eachine_TX801.png](bilder/BambiKam_Easy_Transmittergehaeuse_Eachine_TX801.png)
+
+Das STL [BambiKam_Easy_Transmittergehaeuse_Eachine_TX801_3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_Eachine_TX801_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+
+#### Gehäuse für SpeedyBee VTX-DVR
+
+![BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR.png](bilder/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR.png)
+
+Das STL für den Boden [BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Boden-3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Boden-3D-Druck.stl) und jenes für den Deckel [BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Deckel-3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Deckel-3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ## Bausatz zusammenbauen
 
@@ -214,7 +228,7 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
-- Die BambiKam Easy ist derzeit nur für die [FLIR Boson](https://www.oemcameras.com/thermal-imaging-cameras/thermal-imaging-cores/flir-boson-series.htm) [320 50° (4.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-4mm.htm) oder [34° (6.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-6mm.htm) und das [Interface Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm) ausgelegt. 
+- Die BambiKam Easy ist derzeit nur für die [FLIR Boson](https://www.oemcameras.com/thermal-imaging-cameras/thermal-imaging-cores/flir-boson-series.htm) [320 50° (4.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-4mm.htm) oder [34° (6.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-6mm.htm) und das [Interface Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm) ausgelegt.
 
 ## Testflug mit der BambiKam V6
 
