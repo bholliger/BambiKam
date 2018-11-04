@@ -29,9 +29,7 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
 ### Bilder der BambiKam Easy
-
-![Unten](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
-![Unten](bilder/BambiKam_Easy_Links.jpg)
+[Bilder der BambiKam Easy](BambiKamEasy/BambiKamEasyV8#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 
 ### Bilder der BambiKam Pro
 
@@ -74,7 +72,7 @@ Das Hauptaugenmerk bei der Easy-Variante wurde auf die folgende Punkte gelegt:
 
 ## Kann die BambiKam auch an die Mavic 2 befestigt werden?
 
-Nein, derzeit gibt es noch keine BambiKam, welche die Mavic 2 unterstützt. Die Landekufen der Mavic 2 wurden neu gestaltet und es muss erst wieder eine Lösung gefunden werden.
+Ja, die BambiKam ist nun auch an die die Mavic 2 angepasst und die Beschreibung wurde entsprechend erweitert.
 
 ## Versionen
 
