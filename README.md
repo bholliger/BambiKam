@@ -12,7 +12,7 @@
 - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
     - [BambiKam Easy](#bambikam-easy)
     - [BambiKam Pro](#bambikam-pro)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
 - [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
 - [Kann die BambiKam auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-auch-an-die-mavic-2-befestigt-werden)
 - [Versionen](#versionen)
