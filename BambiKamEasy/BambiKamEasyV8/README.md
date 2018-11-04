@@ -1,4 +1,4 @@
-# BambiKam Easy V8 30.9.2018 [BETA]
+# BambiKam Easy V8 04.11.2018 [BETA]
 
 > Die Dokumentation von BambiKam V8 ist noch im BETA-Stadium. Deswegen fehlen beispielsweise noch eine Reihe aktueller Fotos.
 
@@ -15,12 +15,23 @@
 - [Müssen an der Drohne Modifikationen vorgenommen werden?](#m%C3%BCssen-an-der-drohne-modifikationen-vorgenommen-werden)
 - [Kann die BambiKam auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-auch-an-die-mavic-2-befestigt-werden)
 - [Lizenz](#lizenz)
+- [Konfiguration der BambiKam Easy](#konfiguration-der-bambikam-easy)
 - [Materialien](#materialien)
     - [Aviatik-Sperrholz 2mm](#aviatik-sperrholz-2mm)
     - [3D-Druck](#3d-druck)
 - [Anfertigen der BambiKam Easy](#anfertigen-der-bambikam-easy)
-    - [Lasern von Aviatik-Sperrholz 2mm](#lasern-von-aviatik-sperrholz-2mm)
-    - [Kamerahalterung drucken](#kamerahalterung-drucken)
+    - [DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera](#dji-mavic-proplatinum-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+        - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera](#lasern-von-aviatik-sperrholz-2mm-f%C3%BCr-dji-mavic-proplatinum-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+        - [Kamerahalterung drucken für DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera](#kamerahalterung-drucken-f%C3%BCr-dji-mavic-proplatinum-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+    - [DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera](#dji-mavic-proplatinum-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
+        - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera](#lasern-von-aviatik-sperrholz-2mm-f%C3%BCr-dji-mavic-proplatinum-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
+        - [Kamerahalterung drucken für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera](#kamerahalterung-drucken-f%C3%BCr-dji-mavic-proplatinum-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
+    - [DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#dji-mavic-2-prozoom-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+        - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#lasern-von-aviatik-sperrholz-2mm-f%C3%BCr-dji-mavic-2-prozoom-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+        - [Kamerahalterung drucken für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#kamerahalterung-drucken-f%C3%BCr-dji-mavic-2-prozoom-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera)
+    - [DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera](#dji-mavic-2-prozoom-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
+        - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera](#lasern-von-aviatik-sperrholz-2mm-f%C3%BCr-dji-mavic-2-prozoom-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
+        - [Kamerahalterung drucken für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera](#kamerahalterung-drucken-f%C3%BCr-dji-mavic-2-prozoom-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera)
     - [Gehäuse für Transmitter drucken](#geh%C3%A4use-f%C3%BCr-transmitter-drucken)
         - [Gehäuse für Eachine TX801](#geh%C3%A4use-f%C3%BCr-eachine-tx801)
         - [Gehäuse für SpeedyBee VTX-DVR](#geh%C3%A4use-f%C3%BCr-speedybee-vtx-dvr)
@@ -46,7 +57,7 @@
 
 ## Was ist BambiKam?
 
-BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) zu befestigen.
+BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) oder an eine [DJI Mavic 2 Pro/Zoom](https://www.google.com/search?q=dji+mavic+2+pro) zu befestigen.
 
 Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch.
 
@@ -80,13 +91,52 @@ Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
 
 ## Kann die BambiKam auch an die Mavic 2 befestigt werden?
 
-Nein, derzeit kann die BambiKam Easy noch nicht an eine Mavic 2 montiert werden. Die Landekufen der Mavic 2 wurden neu gestaltet und es muss erst wieder eine Lösung gefunden werden.
+Ja, die BambiKam ist nun auch an die die Mavic 2 angepasst und die Beschreibung wurde entsprechend erweitert.
 
 ## Lizenz
 
 BambiKam Easy steht unter der Lizenz [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/ch/) und darf somit beliebig kopiert, verändert und geteilt werden unter der Bedingung, dass diese Änderungen wiederum geteilt werden und ein Hinweis auf das Ursprungsprojekt gegeben wird.
 
 Es wird keine Verantwortung übernommen.
+
+## Konfiguration der BambiKam Easy
+
+Die BambiKam Easy kann für verschiedene Quadcopter, Kameras und Transmitter aufgebaut werden:
+
+Quadcopter
+
+- [DJI Mavic Pro](https://www.dji.com/mavic)
+- [DJI Mavic Pro Platinum](https://www.dji.com/mavic-pro-platinum)
+- [DJI Mavic 2 Pro](https://www.dji.com/mavic-2)
+- [DJI Mavic 2 Zoom](https://www.dji.com/mavic-2)
+
+Kameras [FLIR BOSON](http://www.flir.de/cores/boson/)
+
+- FLIR Boson 320 50°
+- FLIR Boson 320 34°
+- FLIR Boson 640 50°
+- FLIR Boson 640 32°
+
+Transmitter
+
+- [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801)
+- [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)
+
+Plattformwahl
+
+Die oben angeführten Quadcopter- und Kamera-Modelle lassen sich mit insgesamt vier verschiedenen Plattformen abdecken. Für die zwei verschiedenen Mavic-Modelle sind die Ausschnitte der Landekufen unterschiedlich. Für die zwei verschiedenen Kameramodelle sind die Lochausschnitte entsprechend unterschiedlich.
+
+|                | DJI Mavic Pro/Platinum                                                          | DJI Mavic 2 Pro/Zoom                                                          |
+| -------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| FLIR Boson 320 | [Link](#dji-mavic-proplatinum-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera) | [Link](#dji-mavic-2-prozoom-mit-flir-boson-320-50%C2%B0-oder-34%C2%B0-kamera) |
+| FLIR Boson 640 | (noch nicht verfügbar)                                                          | [Link](#dji-mavic-2-prozoom-mit-flir-boson-640-50%C2%B0-oder-32%C2%B0-kamera) |
+
+Transmitterwahl
+
+Die Grundplatte kann zwei verschiedene Transmittergehäuse aufnehmen. Die Wahl des Transmitters hat somit keine Auswirkung auf die Grundplatte.
+
+- [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801)
+- [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)
 
 ## Materialien
 
@@ -106,26 +156,111 @@ Ist das Holz beschafft, so lässt sich die Form sehr einfach mit einem LaserCutt
 Beispielsweise verfügen diverse Fablabs in der Schweiz über einen Lasercutter [Fablabs der Schweiz](https://fablab.ch/#/machine).
 So auch das [FablabWinti](https://www.fablabwinti.ch/das-lab/ausstattung/lasercutter/). (Neue Mitglieder sind immer herzlich willkommen!)
 
-### Lasern von Aviatik-Sperrholz 2mm
+### DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera
 
-![BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm.svg)
+#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera
 
-Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm.svg) soll folgendermassen gelasert werden:
+![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg)
 
-| Reihenfolge | Farbe    | Geschwindigkeit | Intensität |
-| ----------- | -------- | --------------- | ---------- |
-| 1           | Gelb     | 1000            | 3%         |
-| 2           | Pink     | 1000            | 65%        |
-| 3           | Schwarz  | 1000            | 65%        |
-| 4           | Rot      | ignorieren      | ignorieren |
+Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg) soll folgendermassen gelasert werden:
+
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Gelb    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 65%        |
+| 3           | Schwarz | 1000            | 65%        |
+| 4           | Rot     | ignorieren      | ignorieren |
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 
-### Kamerahalterung drucken
+#### Kamerahalterung drucken für DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera
 
-![BambiKam_Easy_Kameragehause.png](bilder/BambiKam_Easy_Kameragehause.png)
+Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module": 
+[https://www.oemcameras.com/rhp-bos-vpc-if.htm](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
+
+![BambiKam_Easy_Kameragehause_320.png](bilder/BambiKam_Easy_Kameragehause_320.png)
+
+Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_320.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_320.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+
+<!-- *Derzeit noch nicht verfügbar:*
+### DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera
+
+#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera
+
+![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg)
+
+Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg) soll folgendermassen gelasert werden:
+
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Gelb    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 65%        |
+| 3           | Schwarz | 1000            | 65%        |
+| 4           | Rot     | ignorieren      | ignorieren |
+
+> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+
+#### Kamerahalterung drucken für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera
+
+Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface": 
+[https://www.oemcameras.com/rhp-bos-rc-if.htm](https://www.oemcameras.com/rhp-bos-rc-if.htm)
+
+![BambiKam_Easy_Kameragehause_640.png](bilder/BambiKam_Easy_Kameragehause_640.png)
 
 Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+/ *Derzeit noch nicht verfügbar:* -->
+
+### DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera
+
+#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera
+
+![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg)
+
+Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg) soll folgendermassen gelasert werden:
+
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Gelb    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 65%        |
+| 3           | Schwarz | 1000            | 65%        |
+| 4           | Rot     | ignorieren      | ignorieren |
+
+> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+
+#### Kamerahalterung drucken für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera
+
+Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module": 
+[https://www.oemcameras.com/rhp-bos-vpc-if.htm](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
+
+![BambiKam_Easy_Kameragehause_320.png](bilder/BambiKam_Easy_Kameragehause_320.png)
+
+Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_320.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_320.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+
+### DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera
+
+#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera
+
+![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg)
+
+Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg) soll folgendermassen gelasert werden:
+
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Gelb    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 65%        |
+| 3           | Schwarz | 1000            | 65%        |
+| 4           | Rot     | ignorieren      | ignorieren |
+
+> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+
+#### Kamerahalterung drucken für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera
+
+Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface": 
+[https://www.oemcameras.com/rhp-bos-rc-if.htm](https://www.oemcameras.com/rhp-bos-rc-if.htm)
+
+![BambiKam_Easy_Kameragehause_640.png](bilder/BambiKam_Easy_Kameragehause_640.png)
+
+Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_640.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_640.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### Gehäuse für Transmitter drucken
 
@@ -203,7 +338,7 @@ Der Sender wird in das Gehäuse eingeschoben, wobei darauf geachtet werden muss,
 
 ### Kamera montieren
 
-Bevor die Kamera  montiert werden kann, muss das Interface auf die Kamera aufgesteckt werden. Der Stecker ist nicht leichtgängig und es kann helfen, wenn man das Interface vorsichtig mit den kurzen Schrauben an der Kamera festschraubt.
+Bevor die Kamera montiert werden kann, muss das Interface auf die Kamera aufgesteckt werden. Der Stecker ist nicht leichtgängig und es kann helfen, wenn man das Interface vorsichtig mit den kurzen Schrauben an der Kamera festschraubt.
 
 ![rhp-bos-vpc-if](./bilder/BambiKam_Easy_rhp-bos-vpc-if.png)
 
@@ -228,7 +363,6 @@ Durch das geringe Gewicht der BambiKam Easy wird auch die Flugzeit nicht allzu n
 - Der Sender darf *nie* ohne Antenne mit Strom versorgt werden, da sonst der Sender zerstört wird.
 - Das an der Stromversorgung angehängte Kabel führt nur Strom, wenn die Drohne eingeschaltet ist. Ein Ein-/Aus-Schalter ist nicht nötig.
 - Die Kunststoffteile sind aus PLA gefertigt. Bitte lassen Sie diese nicht im heissen Auto liegen, da es sonst allenfalls zu Verformungen kommen könnte.
-- Die BambiKam Easy ist derzeit nur für die [FLIR Boson](https://www.oemcameras.com/thermal-imaging-cameras/thermal-imaging-cores/flir-boson-series.htm) [320 50° (4.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-4mm.htm) oder [34° (6.3mm Linse)](https://www.oemcameras.com/flir-boson-320x256-6mm.htm) und das [Interface Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm) ausgelegt.
 
 ## Testflug mit der BambiKam V6
 
