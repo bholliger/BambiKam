@@ -83,11 +83,15 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
 
-Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie haben kann.
+Jein. Durch die Tatsache, dass eine separate Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie haben kann.
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
 Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
+
+Es besteht jedoch die Möglichkeit, dass auf den Akku der Mavic noch ein separater Akku aufgeklebt wird. Dieser Akku würde dann für die Speisung des Transmitters und der Wärmebildkamera zuständig sein.
+
+Als Akkus würden sich folgende eignen: [https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-akku-2s-7-4v-300mah-35c-70c-phr-3p.html](https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-akku-2s-7-4v-300mah-35c-70c-phr-3p.html)
 
 ## Kann die BambiKam auch an die Mavic 2 befestigt werden?
 
