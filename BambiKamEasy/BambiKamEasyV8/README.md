@@ -71,6 +71,7 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 ![Links](bilder/BambiKam_Easy_Links.jpg)
 ![Vorne](bilder/BambiKam_Easy_Vorne.jpg)
 ![Oben](bilder/BambiKam_Easy_Oben.jpg)
+![Links mit Drohne](bilder/BambiKam_Easy_Links_Mit_Drohne.jpg)
 ![Rechts mit Drohne](bilder/BambiKam_Easy_Rechts_Mit_Drohne.jpg)
 ![Unten mit Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
 
