@@ -67,6 +67,8 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
+BambiKam Easy für DJI Mavic Pro (oder Platinum), FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und direktem Stromanschluss an die angepasste Mavic.
+
 ![Rechts](bilder/BambiKam_Easy_Rechts.jpg)
 ![Links](bilder/BambiKam_Easy_Links.jpg)
 ![Links mit Drohne](bilder/BambiKam_Easy_Links_Mit_Drohne.jpg)
