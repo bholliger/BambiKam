@@ -1,4 +1,4 @@
-# BambiKam Easy V8 04.11.2018 [BETA]
+# BambiKam Easy V8 25.11.2018 [BETA]
 
 > Die Dokumentation von BambiKam V8 ist noch im BETA-Stadium. Deswegen fehlen beispielsweise noch eine Reihe aktueller Fotos.
 
@@ -69,8 +69,6 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 
 ![Rechts](bilder/BambiKam_Easy_Rechts.jpg)
 ![Links](bilder/BambiKam_Easy_Links.jpg)
-![Vorne](bilder/BambiKam_Easy_Vorne.jpg)
-![Oben](bilder/BambiKam_Easy_Oben.jpg)
 ![Links mit Drohne](bilder/BambiKam_Easy_Links_Mit_Drohne.jpg)
 ![Rechts mit Drohne](bilder/BambiKam_Easy_Rechts_Mit_Drohne.jpg)
 ![Unten mit Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
