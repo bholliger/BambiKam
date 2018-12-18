@@ -1,22 +1,21 @@
 # BambiKam
 
 > Quicklinks zu den aktuellen Versionen:
-> - [BambiKam Easy V6](BambiKamEasy/BambiKamEasyV6)
-> - [BambiKam Easy V8 BETA](BambiKamEasy/BambiKamEasyV8)
+> - [BambiKam Easy V8](BambiKamEasy/BambiKamEasyV8)
 > - [BambiKam Pro V2](BambiKamPro/BambiKamProV2)
 
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
-    - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
-    - [Bilder der BambiKam Pro](#bilder-der-bambikam-pro)
+  - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
+  - [Bilder der BambiKam Pro](#bilder-der-bambikam-pro)
 - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
-    - [BambiKam Easy](#bambikam-easy)
-    - [BambiKam Pro](#bambikam-pro)
+  - [BambiKam Easy](#bambikam-easy)
+  - [BambiKam Pro](#bambikam-pro)
 - [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
 - [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
 - [Kann die BambiKam auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-auch-an-die-mavic-2-befestigt-werden)
 - [Versionen](#versionen)
-    - [Archiv](#archiv)
+  - [Archiv](#archiv)
 - [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
 - [Lizenz](#lizenz)
 
@@ -29,6 +28,7 @@ BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
 ### Bilder der BambiKam Easy
+
 [Bilder der BambiKam Easy](BambiKamEasy/BambiKamEasyV8#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 
 ### Bilder der BambiKam Pro
@@ -47,7 +47,7 @@ Siehe auch weitere Bilder in der entsprechenden [Version](#versionen).
 ### BambiKam Pro
 
 - Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm. ![Gewicht](bilder/BambiKam_Pro_Gewicht.jpg)
-- 
+- TBD
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
 
@@ -65,9 +65,9 @@ Das Hauptaugenmerk bei der Easy-Variante wurde auf die folgende Punkte gelegt:
 
 - Minimalstes Gewicht
 - Einfachste Handhabung
-    - Keine Fussverlängerungen
-    - Einfaches Entfernen
-    - Sensoren können weiterhin verwendet werden
+  - Keine Fussverlängerungen
+  - Einfaches Entfernen
+  - Sensoren können weiterhin verwendet werden
 - Kompakte Abmessungen
 
 ## Kann die BambiKam auch an die Mavic 2 befestigt werden?
@@ -78,13 +78,13 @@ Ja, die BambiKam ist nun auch an die die Mavic 2 angepasst und die Beschreibung 
 
 Die BambiKam wird stetig weiterentwickelt. Folgende Versionen sind bisher erschienen:
 
-- [BambiKam Easy V8 BETA](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert.
-- [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
+- [BambiKam Easy V8](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert. Die Löcher für die Ultraschall-Sensoren und Kameras wurden vergrössert.
 - [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
 ### Archiv
 
 - [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte, fixe Kameraeinstellung.
+- [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
