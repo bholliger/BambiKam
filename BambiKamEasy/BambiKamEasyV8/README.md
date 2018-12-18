@@ -241,7 +241,8 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg](plan/BambiKam_Easy
 
 #### Kamerahalterung drucken für die FLIR Boson 320 50° oder 34°-Kamera und dem Low Profile BOSON VPC Interface Module
 
-Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module": 
+Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module":
+
 [https://www.oemcameras.com/rhp-bos-vpc-if.htm](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
 
 ![BambiKam_Easy_Kameragehause_320.png](bilder/BambiKam_Easy_Kameragehause_320.png)
@@ -254,19 +255,23 @@ Bitte dazu die Kamerahalterung unter [Kamerahalterung drucken für die FLIR Boso
 
 #### Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem Low Profile BOSON VPC Interface Module
 
-Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface": 
+Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface":
+
 [https://www.oemcameras.com/rhp-bos-rc-if.htm](https://www.oemcameras.com/rhp-bos-rc-if.htm)
 
-![BambiKam_Easy_Kameragehause_640.png](bilder/BambiKam_Easy_Kameragehause_640.png)
+Dieses Kameragehäuse muss ebenfalls für die FLIR Boson 320 50° oder 34°-Kamera mit dem RHP Boson RC-IF Remote Control Interface verwendet werden.
+
+![BambiKam_Easy_Kameragehause_RCIF_320-640.png](bilder/BambiKam_Easy_Kameragehause_RCIF_320-640.png)
 
 Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_640.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_640.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 #### Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem RHP Boson RC-IF Remote Control Interface
 
-Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface": 
-[https://www.oemcameras.com/rhp-bos-rc-if.htm](https://www.oemcameras.com/rhp-bos-rc-if.htm)
+Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module":
 
-![BambiKam_Easy_Kameragehause_640.png](bilder/BambiKam_Easy_Kameragehause_640.png)
+[https://www.oemcameras.com/rhp-bos-vpc-if.htm](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
+
+![BambiKam_Easy_Kameragehause_LowIF_640.png](bilder/BambiKam_Easy_Kameragehause_LowIF_640.png)
 
 Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_RCIF_320-640.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_RCIF_320-640.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
