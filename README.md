@@ -1,23 +1,23 @@
 # BambiKam
 
 > Quicklinks zu den aktuellen Versionen:
-> - [BambiKam Easy V8](BambiKamEasy/BambiKamEasyV8)
+> - [BambiKam Easy V8.10](BambiKamEasy/BambiKamEasyV8.10)
 > - [BambiKam Pro V2](BambiKamPro/BambiKamProV2)
 
-- [Was ist BambiKam?](#Was-ist-BambiKam)
-- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#Zeig-her-die-Bilder-Ich-will-sehen-wies-aussieht)
-  - [Bilder der BambiKam Easy](#Bilder-der-BambiKam-Easy)
-  - [Bilder der BambiKam Pro](#Bilder-der-BambiKam-Pro)
-- [Was zeichnet BambiKam aus?](#Was-zeichnet-BambiKam-aus)
-  - [BambiKam Easy](#BambiKam-Easy)
-  - [BambiKam Pro](#BambiKam-Pro)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#Müssen-an-der-Drohne-Modifikationen-vorgenommen-werden)
-- [Was ist der Unterschied zwischen den beiden BambiKams?](#Was-ist-der-Unterschied-zwischen-den-beiden-BambiKams)
-- [Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?](#Kann-die-BambiKam-Easy-auch-an-die-Mavic-2-befestigt-werden)
-- [Versionen](#Versionen)
-  - [Archiv](#Archiv)
-- [Warum sieht die BambiKam Easy so spartanisch aus?](#Warum-sieht-die-BambiKam-Easy-so-spartanisch-aus)
-- [Lizenz](#Lizenz)
+- [Was ist BambiKam?](#was-ist-bambikam)
+- [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+  - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
+  - [Bilder der BambiKam Pro](#bilder-der-bambikam-pro)
+- [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
+  - [BambiKam Easy](#bambikam-easy)
+  - [BambiKam Pro](#bambikam-pro)
+- [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
+- [Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-easy-auch-an-die-mavic-2-befestigt-werden)
+- [Versionen](#versionen)
+  - [Archiv](#archiv)
+- [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
+- [Lizenz](#lizenz)
 
 ![Bild der BambiKam Easy](bilder/BambiKam_Easy_CAD.png)
 
@@ -57,6 +57,8 @@ Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet u
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
+Alternativ kann auch auf kleine Akkus zurückgegriffen werden und die BambiKam so ohne Drohnenmodifikation betrieben werden.
+
 ## Was ist der Unterschied zwischen den beiden BambiKams?
 
 Die Pro-Variante verfügt über ein Gimbal, welches die Bewegungen des Quadcopters ausgleicht und so ein stabileres, ruhigeres Bild zum Boden senden kann. Ein Vergleich der beiden Varianten kann in diesem Video nachvollzogen werden:
@@ -80,13 +82,14 @@ Ja, die BambiKam Easy ist nun auch an die die Mavic 2 angepasst und die Beschrei
 
 Die BambiKam wird stetig weitergepflegt. Folgende Versionen sind bisher erschienen:
 
-- [BambiKam Easy V8](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert. Die Löcher für die Ultraschall-Sensoren und Kameras wurden vergrössert.
+- [BambiKam Easy V8.10](/BambiKamEasy/BambiKamEasyV8.10): Die Grundplatte wurde überarbeitet.
 - [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
 ### Archiv
 
 - [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte, fixe Kameraeinstellung.
 - [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
+- [BambiKam Easy V8](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert. Die Löcher für die Ultraschall-Sensoren und Kameras wurden vergrössert.
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
