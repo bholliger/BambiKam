@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1017"
      id="namedview1771"
      showgrid="false"
      inkscape:zoom="1.2056825"
-     inkscape:cx="353.16253"
+     inkscape:cx="212.16355"
      inkscape:cy="184.04277"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -849,7 +849,7 @@
        y="-3.4141552"
        x="-0.35101554"
        id="tspan1828-2"
-       sodipodi:role="line">=pass3:1000mm/min:45%:#ff0000=</tspan></text>
+       sodipodi:role="line">=pass3:1000mm/min:45%:#000000=</tspan></text>
   <g
      aria-label="BambiKam"
      transform="rotate(90,-2.9104164,2.9104164)"
@@ -1236,51 +1236,63 @@
       <path
          inkscape:connector-curvature="0"
          d="m 11,11 a 61,61 0 0 0 -22,0"
-         id="path112" />
+         id="path112"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="70"
-         d="m -11,11 h -3.5" />
+         d="m -11,11 h -3.5"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="71"
-         d="M -14.5,11 V 29.5" />
+         d="M -14.5,11 V 29.5"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="72"
-         d="M -14.5,29.5 H -12" />
+         d="M -14.5,29.5 H -12"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          d="m -12,29.5 c -0.0011,0.6105 -0.0661,1.2301 -0.2865,1.8005 -0.1664,0.4358 -0.4396,0.8283 -0.7911,1.1306 -0.3578,0.3162 -0.7855,0.5328 -1.1777,0.7949 -0.2479,0.1672 -0.4835,0.3707 -0.6138,0.6449 -0.0942,0.194 -0.1314,0.4125 -0.1309,0.6291"
-         id="path117" />
+         id="path117"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="74"
-         d="m -15,62.5 v -28" />
+         d="m -15,62.5 v -28"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          d="m -15,62.5 a 15,15 0 1 0 30,0"
-         id="path120" />
+         id="path120"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="76"
-         d="m 15,62.5 v -28" />
+         d="m 15,62.5 v -28"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          d="m 12,29.5 c 0.0011,0.6105 0.0661,1.2301 0.2865,1.8005 0.1664,0.4358 0.4396,0.8283 0.7911,1.1306 0.3578,0.3162 0.7855,0.5328 1.1777,0.7949 0.2479,0.1672 0.4835,0.3707 0.6138,0.6449 0.0942,0.194 0.1314,0.4125 0.1309,0.6291"
-         id="path123" />
+         id="path123"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="78"
-         d="M 14.5,29.5 H 12" />
+         d="M 14.5,29.5 H 12"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="79"
-         d="M 14.5,11 V 29.5" />
+         d="M 14.5,11 V 29.5"
+         style="stroke:#ff00ff" />
       <path
          inkscape:connector-curvature="0"
          id="80"
-         d="m 11,11 h 3.5" />
+         d="m 11,11 h 3.5"
+         style="stroke:#ff00ff" />
       <circle
          cx="-15.3676"
          cy="76.947502"
