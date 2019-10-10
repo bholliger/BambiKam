@@ -13,7 +13,7 @@
    viewBox="0 0 114.23342 93.772141"
    id="svg1769"
    sodipodi:docname="BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="D:\Projects\repos-nonsw\BambiKam\BambiKamEasy\BambiKamEasyV6\bilder\BambiKam_Easy_Aviatik_Sperrholz_2mm.png"
    inkscape:export-xdpi="300.05304"
    inkscape:export-ydpi="300.05304">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,16 +39,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1017"
      id="namedview1771"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="265.49936"
-     inkscape:cy="235.81297"
+     inkscape:zoom="1"
+     inkscape:cx="346.38951"
+     inkscape:cy="309.11662"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="text1597"
+     inkscape:current-layer="svg1769"
      inkscape:measure-start="469.858,41.885"
      inkscape:measure-end="468.7,151.385"
      inkscape:snap-text-baseline="false"
@@ -1571,7 +1571,7 @@
        y="-3.7281597"
        x="-0.74758571"
        id="tspan1828-2"
-       sodipodi:role="line">=pass3:1000mm/min:45%:#ff0000=</tspan></text>
+       sodipodi:role="line">=pass3:1000mm/min:45%:#000000=</tspan></text>
   <g
      aria-label="V8/1/320"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.46938229px;line-height:4.66140509px;font-family:'Hawaiian Punk';-inkscape-font-specification:'Hawaiian Punk';letter-spacing:0.75305802px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.26021647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1613,5 +1613,53 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:3.35621166px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:-0.50203872px;fill:none;stroke:#008000;stroke-width:0.26021647;stroke-miterlimit:4;stroke-dasharray:none"
          id="path1875" />
     </g>
+  </g>
+  <g
+     transform="rotate(-90,9.0106989,96.467405)"
+     id="g6437">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35000002;stroke-linecap:butt;stroke-linejoin:miter"
+       inkscape:connector-curvature="0"
+       id="path6429"
+       d="M 36.880979,97.197099 V 94.197103" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35000002;stroke-linecap:butt;stroke-linejoin:miter"
+       inkscape:connector-curvature="0"
+       id="path6431"
+       d="M 36.880979,97.197099 H 66.88098" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35000002;stroke-linecap:butt;stroke-linejoin:miter"
+       inkscape:connector-curvature="0"
+       id="path6433"
+       d="m 66.88098,94.197103 v 2.999996" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35000002;stroke-linecap:butt;stroke-linejoin:miter"
+       inkscape:connector-curvature="0"
+       id="path6435"
+       d="M 36.880979,94.197103 H 66.88098" />
+  </g>
+  <g
+     id="g6447"
+     transform="rotate(90,132.28224,-11.620587)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+       id="path6439"
+       d="m 182.5,109.5 v -3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+       id="path6441"
+       d="m 237.5,109.5 h -55"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+       id="path6443"
+       d="m 237.5,106.5 v 3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.34999999;stroke-linecap:butt;stroke-linejoin:miter"
+       id="path6445"
+       d="m 182.5,106.5 h 55"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
