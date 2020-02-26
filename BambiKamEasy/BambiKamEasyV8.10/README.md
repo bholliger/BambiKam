@@ -37,6 +37,7 @@
 - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
   - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
   - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
+  - [Anpassen des vorderen Distanzhalters an den Rumpf der Mavic 2](#anpassen-des-vorderen-distanzhalters-an-den-rumpf-der-mavic-2)
   - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
   - [Anbringen des Transmittergehäuses](#anbringen-des-transmittergehäuses)
     - [Transmittergehäuse für den Eachine TX801-Transmitter](#transmittergehäuse-für-den-eachine-tx801-transmitter)
@@ -317,6 +318,13 @@ Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bild
 Die Stützen für das Kameragehäuse müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet. Idealerweise montiert man das Kameragehäuse (ohne die Kamera einzubauen) bereits an die Stützen und hat so den perfekten Abstand.
 
 Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden.
+
+### Anpassen des vorderen Distanzhalters an den Rumpf der Mavic 2
+
+> Dies ist nur für die Mavic 2 nötig.
+
+Damit der Rumpf besser anliegt, sollte der vordere Distanzhalter wie folgt ausgeschliffen werden:
+![Ausschnitt](bilder/BambiKam_Easy_Mavic_2_Ausschnitt.jpg)
 
 ### Lackieren der BambiKam Easy
 
