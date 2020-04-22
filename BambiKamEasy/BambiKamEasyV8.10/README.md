@@ -1,4 +1,4 @@
-# BambiKam Easy V8.10 06.10.2019
+# BambiKam Easy V8.10 22.04.2020
 
 > Bitte folgende Punkte beachten: [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
@@ -6,6 +6,8 @@
 > - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
 > - [Montage der Kamera (Endmontage)](#montage-der-kamera-endmontage)
 
+- [BambiKam für DJI Mavic Pro (Platinum)](#bambikam-für-dji-mavic-pro-platinum)
+- [BambiKam für DJI Mavic 2 Pro/Zoom](#bambikam-für-dji-mavic-2-prozoom)
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
@@ -20,24 +22,18 @@
 - [Anfertigen der BambiKam Easy](#anfertigen-der-bambikam-easy)
   - [DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera](#dji-mavic-proplatinum-mit-flir-boson-320-50-oder-34-kamera)
     - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 320 50° oder 34°-Kamera](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-proplatinum-mit-flir-boson-320-50-oder-34-kamera)
-  - [DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera](#dji-mavic-proplatinum-mit-flir-boson-640-50-oder-32-kamera)
-    - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-proplatinum-mit-flir-boson-640-50-oder-32-kamera)
+    - [3D-Druck des Splintens für die Befestigung an der Mavic 1](#3d-druck-des-splintens-für-die-befestigung-an-der-mavic-1)
   - [DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera)
     - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera)
-  - [DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera](#dji-mavic-2-prozoom-mit-flir-boson-640-50-oder-32-kamera)
-    - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-2-prozoom-mit-flir-boson-640-50-oder-32-kamera)
+    - [3D-Druck des Splintens für die Befestigung an der Mavic 2](#3d-druck-des-splintens-für-die-befestigung-an-der-mavic-2)
   - [Kamerahalterung drucken](#kamerahalterung-drucken)
     - [Kamerahalterung drucken für die FLIR Boson 320 50° oder 34°-Kamera und dem Low Profile BOSON VPC Interface Module](#kamerahalterung-drucken-für-die-flir-boson-320-50-oder-34-kamera-und-dem-low-profile-boson-vpc-interface-module)
-    - [Kamerahalterung drucken für die FLIR Boson 320 50° oder 34°-Kamera und dem RHP Boson RC-IF Remote Control Interface](#kamerahalterung-drucken-für-die-flir-boson-320-50-oder-34-kamera-und-dem-rhp-boson-rc-if-remote-control-interface)
-    - [Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem Low Profile BOSON VPC Interface Module](#kamerahalterung-drucken-für-die-flir-boson-640-50-oder-32-kamera-und-dem-low-profile-boson-vpc-interface-module)
-    - [Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem RHP Boson RC-IF Remote Control Interface](#kamerahalterung-drucken-für-die-flir-boson-640-50-oder-32-kamera-und-dem-rhp-boson-rc-if-remote-control-interface)
   - [Gehäuse für Transmitter drucken](#gehäuse-für-transmitter-drucken)
     - [Gehäuse für Eachine TX801](#gehäuse-für-eachine-tx801)
     - [Gehäuse für SpeedyBee VTX-DVR](#gehäuse-für-speedybee-vtx-dvr)
 - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
   - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
   - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
-  - [Anpassen des vorderen Distanzhalters an den Rumpf der Mavic 2](#anpassen-des-vorderen-distanzhalters-an-den-rumpf-der-mavic-2)
   - [Lackieren der BambiKam Easy](#lackieren-der-bambikam-easy)
   - [Anbringen des Transmittergehäuses](#anbringen-des-transmittergehäuses)
     - [Transmittergehäuse für den Eachine TX801-Transmitter](#transmittergehäuse-für-den-eachine-tx801-transmitter)
@@ -53,13 +49,19 @@
 - [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 - [Testflug mit der BambiKam V6](#testflug-mit-der-bambikam-v6)
 
-![Bild der BambiKam](bilder/BambiKam_Easy_CAD.png)
+## BambiKam für DJI Mavic Pro (Platinum)
+
+![Bild der BambiKam](bilder/BambiKam_Easy_CAD_Mavic1.png)
+
+## BambiKam für DJI Mavic 2 Pro/Zoom
+
+![Bild der BambiKam](bilder/BambiKam_Easy_CAD_Mavic2.png)
 
 ## Was ist BambiKam?
 
 BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) oder an eine [DJI Mavic 2 Pro/Zoom](https://www.google.com/search?q=dji+mavic+2+pro) zu befestigen.
 
-Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch.
+Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch. (Hinweis: Dieser Transmitter hatte zu wenig Absatz und wird deshalb von der Herstellerfirma nicht mehr produziert.)
 
 ## Warum wurde BambiKam Easy entworfen?
 
@@ -67,17 +69,28 @@ BambiKam Easy wurde für die Rehkitzsuche (siehe auch [Rehkitzrettung Schweiz](h
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
+
+![Links](bilder/BambiKam_Easy_Links.jpg)
 BambiKam Easy für DJI Mavic Pro (oder Platinum), FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und direktem Stromanschluss an die angepasste Mavic.
 
 ![Rechts](bilder/BambiKam_Easy_Rechts.jpg)
-![Links](bilder/BambiKam_Easy_Links.jpg)
-![Links mit Drohne](bilder/BambiKam_Easy_Links_Mit_Drohne.jpg)
-![Rechts mit Drohne](bilder/BambiKam_Easy_Rechts_Mit_Drohne.jpg)
-![Unten mit Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
+BambiKam Easy für DJI Mavic Pro (oder Platinum), FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und Speisung via Akkus.
+
+![Rechts mit Drohne](bilder/BambiKam_Mavic2_Oben.jpg)
+
+BambiKam Easy für DJI Mavic 2 Pro/Zoom, FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und Speisung via Akkus.
+
+![Unten mit Drohne](bilder/BambiKam_Mavic2_Unten.jpg)
+
+BambiKam Easy für DJI Mavic 2 Pro/Zoom, FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und Speisung via Akkus.
+
+![Fliegende Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
+
+Fliegende DJI Mavic Pro Platinum mit BambiKam Easy und FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und direkter Stromversorgung.
 
 ## Was zeichnet BambiKam Easy aus?
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm. ![Gewicht](bilder/BambiKam_Easy_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm.
 - Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Verlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam Easy zu entfernen und diese so als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam Easy, die Mavic mit Hilfe der Sensoren zu landen.
@@ -94,7 +107,7 @@ Es besteht jedoch die Möglichkeit, dass auf den Akku der Mavic noch ein separat
 
 Für eine separate Stromversorgung wären folgende Komponenten nötig:
 
-- Akkus (Es wird empfholen, für jeden Mavic Akku ein kleiner Akku anzuschaffen): [https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-2s-7-4v-350mah-35c-70c-phr-3p.html](https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-2s-7-4v-350mah-35c-70c-phr-3p.html)
+- Akkus (Es wird empfholen, für jeden Mavic Akku ein kleiner Akku anzuschaffen): [https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-2s-7-4v-350mah-35c-70c-jst-phr-3pt.html](https://www.swaytronic.ch/LiPo-Akku---Swaytronic/LiPo-Akku-2S-7-4V/2S-7-4V---35C---70C/swaytronic-lipo-2s-7-4v-350mah-35c-70c-jst-phr-3pt.html)
 - Adapterkabel (Ein Adapterkabel wird auseinandergeschnitten und für die Speisung der BambiKam verwendet. Weitere werden benötigt fürs Laden (Maximal 4)). [https://www.swaytronic.ch/LiPo---Zubehoer/LiPo-Adapterkabel/adapterkabel-ph-3p-maennlich-zu-xh-3p-weiblich-2s.html](https://www.swaytronic.ch/LiPo---Zubehoer/LiPo-Adapterkabel/adapterkabel-ph-3p-maennlich-zu-xh-3p-weiblich-2s.html)
 - Verlängerungskabel (Damit die Akkus auf dem Akku kleben bleiben können, wird empfohlen, ein zusätzliches Verlängerungskabel pro Ladeplatz anzuschaffen (Maximal 4).) [https://www.swaytronic.ch/LiPo---Zubehoer/Balancer-Verlaengerungskabel/XH/balancer-verlaengerung-xh-10cm-2s.html](https://www.swaytronic.ch/LiPo---Zubehoer/Balancer-Verlaengerungskabel/XH/balancer-verlaengerung-xh-10cm-2s.html)
 - Ladegerät (Ermöglicht das Laden der kleinen LiPo-Akkus.) [https://www.swaytronic.ch/Ladegeraete/Ladegeraete-12V-DC/ups4-ac-dc-charger.html](https://www.swaytronic.ch/Ladegeraete/Ladegeraete-12V-DC/ups4-ac-dc-charger.html)
@@ -124,38 +137,27 @@ Kameras [FLIR BOSON](http://www.flir.de/cores/boson/)
 
 - FLIR Boson 320 50°
 - FLIR Boson 320 34°
-- FLIR Boson 640 50° (Aus Gewichtsgründen _nicht_ empfohlen)
-- FLIR Boson 640 32°
 
-Interfacewahl
 
-Es gibt zwei verschiedene Interfaces, womit die Kamera angesteuert werden kann:
-
-Low Profile BOSON VPC Interface Module
+[Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
 
 Einfaches Interface, welches das Bild der Kamera in ein Analogsignal umwandelt und zum Transmitter überträgt.
 
-RHP Boson RC-IF Remote Control Interface
-
-Interface, was zusätzlich die Steuerung der Kamera ermöglicht. Dies erfordert jedoch einen weiteren Empfänger, der die Signale an das Interface weitergibt und einen weiteren Sender am Boden, der die Signale an den Empfänger übermitteln kann. Dies muss jedoch selber realisiert werden.
-
-Wichtig: Wird dieses Interface für die FLIR Boson 320 verwendet, so muss die Plattform für die 640er-Kamera verwendet werden. Dies aus dem Grund, weil das Interface einen USB-Micro-Anschluss hat, der zu viel Platz einnimmt.
-
 Plattformwahl
 
-Die oben angeführten Quadcopter- und Kamera-Modelle lassen sich mit insgesamt vier verschiedenen Plattformen abdecken. Für die zwei verschiedenen Mavic-Modelle sind die Ausschnitte der Landekufen unterschiedlich. Für die zwei verschiedenen Kameramodelle sind die Lochausschnitte entsprechend unterschiedlich.
+Die oben angeführten Quadcopter- und Kamera-Modelle lassen sich mit insgesamt zwei verschiedenen Plattformen abdecken. Für die zwei verschiedenen Mavic-Modelle sind die Ausschnitte der Landekufen und Sensoren unterschiedlich.
 
 |                | DJI Mavic Pro/Platinum                                              | DJI Mavic 2 Pro/Zoom                                              |
 | -------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | FLIR Boson 320 | [Link](#dji-mavic-proplatinum-mit-flir-boson-320-50-oder-34-kamera) | [Link](#dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera) |
-| FLIR Boson 640 | [Link](#dji-mavic-proplatinum-mit-flir-boson-640-50-oder-32-kamera) | [Link](#dji-mavic-2-prozoom-mit-flir-boson-640-50-oder-32-kamera) |
+|| 
 
 Transmitterwahl
 
 Die Grundplatte kann zwei verschiedene Transmittergehäuse aufnehmen. Die Wahl des Transmitters hat somit keine Auswirkung auf die Grundplatte.
 
 - [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801)
-- [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)
+- [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/) (Hinweis: Wird nicht mehr hergestellt.)
 
 ## Materialien
 
@@ -192,24 +194,11 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg](plan/Bam
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 
-### DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera
+#### 3D-Druck des Splintens für die Befestigung an der Mavic 1
 
-#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic Pro/Platinum mit FLIR Boson 640 50° oder 32°-Kamera
+![Splinten](bilder/BambiKam_Easy_Splinten.png)
 
-> Wichtig: Die FLIR Boson 640 50° ist für die DJI Mavic Pro (Platinum) aus Gewichtsgründen _nicht_ geeignet.
-
-![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg)
-
-Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_640.svg) soll folgendermassen gelasert werden:
-
-| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
-| ----------- | ------- | --------------- | ---------- |
-| 1           | Grün    | 1000            | 3%         |
-| 2           | Pink    | 1000            | 65%        |
-| 3           | Schwarz | 1000            | 65%        |
-| 4           | Rot     | ignorieren      | ignorieren |
-
-> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+Das STL für den Druck des Splintens [BambiKam_Easy_Splinten_fuer_Mavic1](plan/BambiKam_Easy_Splinten_fuer_Mavic1.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera
 
@@ -228,22 +217,11 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg](plan/BambiKam_Easy
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 
-### DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera
+#### 3D-Druck des Splintens für die Befestigung an der Mavic 2
 
-#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 640 50° oder 32°-Kamera
+![Splinten](bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png)
 
-![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg)
-
-Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_640.svg) soll folgendermassen gelasert werden:
-
-| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
-| ----------- | ------- | --------------- | ---------- |
-| 1           | Grün    | 1000            | 3%         |
-| 2           | Pink    | 1000            | 65%        |
-| 3           | Schwarz | 1000            | 65%        |
-| 4           | Rot     | ignorieren      | ignorieren |
-
-> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+Das STL für den Druck des Splintens [BambiKam_Easy_Splinten_fuer_Mavic2](plan/BambiKam_Easy_Splinten_fuer_Mavic2.stl) kann mit dem 3D-Drucker ausgedruckt werden. Es können gleich zwei Exemplare zur Befestigung verwendet werden.
 
 ### Kamerahalterung drucken
 
@@ -256,32 +234,6 @@ Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface
 ![BambiKam_Easy_Kameragehause_320.png](bilder/BambiKam_Easy_Kameragehause_320.png)
 
 Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_320.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_320.stl) kann mit dem 3D-Drucker ausgedruckt werden.
-
-#### Kamerahalterung drucken für die FLIR Boson 320 50° oder 34°-Kamera und dem RHP Boson RC-IF Remote Control Interface
-
-Bitte dazu die Kamerahalterung unter [Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem RHP Boson RC-IF Remote Control Interface](#kamerahalterung-drucken-für-die-flir-boson-640-50-oder-32-kamera-und-dem-rhp-boson-rc-if-remote-control-interface) verwenden.
-
-#### Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem Low Profile BOSON VPC Interface Module
-
-Wichtig: Dieses Gehäuse ist für das Interface "RHP Boson RC-IF Remote Control Interface":
-
-[https://www.oemcameras.com/rhp-bos-rc-if.htm](https://www.oemcameras.com/rhp-bos-rc-if.htm)
-
-Dieses Kameragehäuse muss ebenfalls für die FLIR Boson 320 50° oder 34°-Kamera mit dem RHP Boson RC-IF Remote Control Interface verwendet werden.
-
-![BambiKam_Easy_Kameragehause_RCIF_320-640.png](bilder/BambiKam_Easy_Kameragehause_RCIF_320-640.png)
-
-Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_640.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_640.stl) kann mit dem 3D-Drucker ausgedruckt werden.
-
-#### Kamerahalterung drucken für die FLIR Boson 640 50° oder 32°-Kamera und dem RHP Boson RC-IF Remote Control Interface
-
-Wichtig: Dieses Gehäuse ist für das Interface "Low Profile BOSON VPC Interface Module":
-
-[https://www.oemcameras.com/rhp-bos-vpc-if.htm](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
-
-![BambiKam_Easy_Kameragehause_LowIF_640.png](bilder/BambiKam_Easy_Kameragehause_LowIF_640.png)
-
-Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_RCIF_320-640.stl](plan/BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_RCIF_320-640.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ### Gehäuse für Transmitter drucken
 
@@ -318,13 +270,6 @@ Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bild
 Die Stützen für das Kameragehäuse müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet. Idealerweise montiert man das Kameragehäuse (ohne die Kamera einzubauen) bereits an die Stützen und hat so den perfekten Abstand.
 
 Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden.
-
-### Anpassen des vorderen Distanzhalters an den Rumpf der Mavic 2
-
-> Dies ist nur für die Mavic 2 nötig.
-
-Damit der Rumpf besser anliegt, sollte der vordere Distanzhalter wie folgt ausgeschliffen werden:
-![Ausschnitt](bilder/BambiKam_Easy_Mavic_2_Ausschnitt.jpg)
 
 ### Lackieren der BambiKam Easy
 

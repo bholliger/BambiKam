@@ -2,30 +2,34 @@
 
 > Quicklinks zu den aktuellen Versionen:
 > - [BambiKam Easy V8.10](BambiKamEasy/BambiKamEasyV8.10)
-> - [BambiKam Pro V2](BambiKamPro/BambiKamProV2)
 
+- [BambiKam für DJI Mavic Pro (Platinum)](#bambikam-für-dji-mavic-pro-platinum)
+- [BambiKam für DJI Mavic 2 Pro/Zoom](#bambikam-für-dji-mavic-2-prozoom)
 - [Was ist BambiKam?](#was-ist-bambikam)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
   - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
-  - [Bilder der BambiKam Pro](#bilder-der-bambikam-pro)
 - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
   - [BambiKam Easy](#bambikam-easy)
-  - [BambiKam Pro](#bambikam-pro)
 - [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
-- [Was ist der Unterschied zwischen den beiden BambiKams?](#was-ist-der-unterschied-zwischen-den-beiden-bambikams)
 - [Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-easy-auch-an-die-mavic-2-befestigt-werden)
 - [Versionen](#versionen)
   - [Archiv](#archiv)
 - [Warum sieht die BambiKam Easy so spartanisch aus?](#warum-sieht-die-bambikam-easy-so-spartanisch-aus)
 - [Lizenz](#lizenz)
 
-![Bild der BambiKam Easy](bilder/BambiKam_Easy_CAD.png)
+## BambiKam für DJI Mavic Pro (Platinum)
+
+![Bild der BambiKam](bilder/BambiKam_Easy_CAD_Mavic1.png)
+
+## BambiKam für DJI Mavic 2 Pro/Zoom
+
+![Bild der BambiKam](bilder/BambiKam_Easy_CAD_Mavic2.png)
 
 ## Was ist BambiKam?
 
 BambiKam ist eine Plattform, welche es erlaubt eine [FLIR BOSON](http://www.flir.de/cores/boson/) Wärmebildkamera zusammen mit einem [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801) und einer [Cloverleaf](https://www.google.com/search?q=align+cloverleaf+5.8+ghz)-Antenne an eine [DJI Mavic Pro/Platinum](https://www.google.com/search?q=dji+mavic+pro+platinum) oder an eine [DJI Mavic 2 Pro/Zoom](https://www.google.com/search?q=dji+mavic+2+pro) zu befestigen.
 
-Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch.
+Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/)-Transmitter zu verwenden. Dieser erlaubt es, das Videosignal direkt auf eine MicroSD-Karte aufzuzeichnen. Dazu muss das alternative Gehäuse verwendet werden. Die Grundplatte ist identisch.  (Hinweis: Dieser Transmitter hatte zu wenig Absatz und wird deshalb von der Herstellerfirma nicht mehr produziert.)
 
 ## Zeig her die Bilder! Ich will sehen wie's aussieht!
 
@@ -33,23 +37,14 @@ Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.
 
 [Bilder der BambiKam Easy](BambiKamEasy/BambiKamEasyV8#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 
-### Bilder der BambiKam Pro
-
-Siehe auch weitere Bilder in der entsprechenden [Version](#versionen).
-
 ## Was zeichnet BambiKam aus?
 
 ### BambiKam Easy
 
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht 60 Gramm. ![Gewicht](bilder/BambiKam_Easy_Gewicht.jpg)
+- Inklusive Kamera, Sender und Antenne beträgt das Gewicht weniger als 65 Gramm.
 - Durch das Anbringen der Kamera, Sender und Antenne auf der Seite kann auf Fussverlängerungen verzichtet werden. Dies spart ebenfalls Gewicht und macht die Drohne nicht höher.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
-
-### BambiKam Pro
-
-- Derzeit wird die BambiKam Pro nicht weiterentwickelt. Der Nachweis, dass es funktioniert, ist erbracht, aber es bestehen keine Pläne, dies weiter auszuarbeiten.
-- Inklusive Kamera, Sender und Antenne beträgt das Gewicht ca. 120 Gramm.
 
 ## Müssen an der Drohne Modifikationen vorgenommen werden?
 
@@ -58,21 +53,6 @@ Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet u
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
 Alternativ kann auch auf kleine Akkus zurückgegriffen werden und die BambiKam so ohne Drohnenmodifikation betrieben werden.
-
-## Was ist der Unterschied zwischen den beiden BambiKams?
-
-Die Pro-Variante verfügt über ein Gimbal, welches die Bewegungen des Quadcopters ausgleicht und so ein stabileres, ruhigeres Bild zum Boden senden kann. Ein Vergleich der beiden Varianten kann in diesem Video nachvollzogen werden:
-
-<https://www.youtube.com/watch?v=tX6mUmYXcQ0>
-
-Das Hauptaugenmerk bei der Easy-Variante wurde auf die folgende Punkte gelegt:
-
-- Minimalstes Gewicht
-- Einfachste Handhabung
-  - Keine Fussverlängerungen
-  - Einfaches Entfernen
-  - Sensoren können weiterhin verwendet werden
-- Kompakte Abmessungen
 
 ## Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?
 
@@ -83,13 +63,13 @@ Ja, die BambiKam Easy ist nun auch an die die Mavic 2 angepasst und die Beschrei
 Die BambiKam wird stetig weitergepflegt. Folgende Versionen sind bisher erschienen:
 
 - [BambiKam Easy V8.10](/BambiKamEasy/BambiKamEasyV8.10): Die Grundplatte wurde überarbeitet.
-- [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
 ### Archiv
 
 - [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte, fixe Kameraeinstellung.
 - [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
 - [BambiKam Easy V8](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert. Die Löcher für die Ultraschall-Sensoren und Kameras wurden vergrössert.
+- [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
