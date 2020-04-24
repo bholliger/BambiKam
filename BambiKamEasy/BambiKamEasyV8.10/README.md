@@ -196,7 +196,7 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_ProPlatinum_320.svg](plan/Bam
 
 #### 3D-Druck des Splintens für die Befestigung an der Mavic 1
 
-![Splinten](bilder/BambiKam_Easy_Splinten.png)
+![bilder\BambiKam_Easy_Splinten_fuer_Mavic1.png](bilder\BambiKam_Easy_Splinten_fuer_Mavic1.png)
 
 Das STL für den Druck des Splintens [BambiKam_Easy_Splinten_fuer_Mavic1](plan/BambiKam_Easy_Splinten_fuer_Mavic1.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
@@ -219,7 +219,7 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg](plan/BambiKam_Easy
 
 #### 3D-Druck des Splintens für die Befestigung an der Mavic 2
 
-![Splinten](bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png)
+![bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png](bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png)
 
 Das STL für den Druck des Splintens [BambiKam_Easy_Splinten_fuer_Mavic2](plan/BambiKam_Easy_Splinten_fuer_Mavic2.stl) kann mit dem 3D-Drucker ausgedruckt werden. Es können gleich zwei Exemplare zur Befestigung verwendet werden.
 
