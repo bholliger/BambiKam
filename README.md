@@ -1,7 +1,7 @@
 # BambiKam
 
 > Quicklinks zu den aktuellen Versionen:
-> - [BambiKam Easy V8.10](BambiKamEasy/BambiKamEasyV8.10)
+> - [BambiKam Easy V8.11](BambiKamEasy/BambiKamEasyV8.11)
 
 - [BambiKam für DJI Mavic Pro (Platinum)](#bambikam-für-dji-mavic-pro-platinum)
 - [BambiKam für DJI Mavic 2 Pro/Zoom](#bambikam-für-dji-mavic-2-prozoom)
@@ -62,14 +62,14 @@ Ja, die BambiKam Easy ist nun auch an die die Mavic 2 angepasst und die Beschrei
 
 Die BambiKam wird stetig weitergepflegt. Folgende Versionen sind bisher erschienen:
 
-- [BambiKam Easy V8.10](/BambiKamEasy/BambiKamEasyV8.10): Die Grundplatte wurde überarbeitet.
+- [BambiKam Easy V8.11](/BambiKamEasy/BambiKamEasyV8.11): Die Grundplatte wurde überarbeitet.
 
 ### Archiv
 
 - [BambiKam Easy V5](/BambiKamEasy/BambiKamEasyV5): Erste veröffentlichte Version. Senkrechte, fixe Kameraeinstellung.
 - [BambiKam Easy V6](/BambiKamEasy/BambiKamEasyV6): Kameraeinstellung kann bis 10° geneigt werden.
 - [BambiKam Easy V8](/BambiKamEasy/BambiKamEasyV8): Das Transmittergehäuse wurde überarbeitet und wird direkt auf die Grundplatte aufgeklebt. Die Lüftung des Transmitters wurde ebenfalls verbessert. Die Löcher für die Ultraschall-Sensoren und Kameras wurden vergrössert.
-- [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
+- [BambiKam Easy V8.10](/BambiKamEasy/BambiKamEasyV8.10): Die Grundplatte wurde überarbeitet.- [BambiKam Pro V2](/BambiKamPro/BambiKamProV2): Aufhängung für 2-Achsen-Gimbal
 
 ## Warum sieht die BambiKam Easy so spartanisch aus?
 
