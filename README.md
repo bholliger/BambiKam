@@ -35,7 +35,7 @@ Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.
 
 ### Bilder der BambiKam Easy
 
-[Bilder der BambiKam Easy](BambiKamEasy/BambiKamEasyV8#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
+[Bilder der BambiKam Easy](BambiKamEasy/BambiKamEasyV8.11#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 
 ## Was zeichnet BambiKam aus?
 

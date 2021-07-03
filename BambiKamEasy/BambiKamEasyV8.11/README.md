@@ -92,7 +92,7 @@ BambiKam Easy für DJI Mavic 2 Pro/Zoom, FLIR Boson 320/50°-Wärmebildkamera, E
 
 ![Thermocam XT384](bilder/BambiKam_Easy_Thermocam_XT384.jpg)
 
-BambiKam Easy für DJI Mavic 2 Pro/Zoom, Thermocam XT384-Wärmebildkamera, Eachine TX801-Transmitter.
+BambiKam Easy für DJI Mavic 2 Pro/Zoom, Thermocam XT384-Wärmebildkamera
 
 ![Fliegende Mavic 1](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
 
