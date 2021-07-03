@@ -10,7 +10,7 @@
   - [Bilder der BambiKam Easy](#bilder-der-bambikam-easy)
 - [Was zeichnet BambiKam aus?](#was-zeichnet-bambikam-aus)
   - [BambiKam Easy](#bambikam-easy)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Müssen an der Mavic 1 Modifikationen vorgenommen werden?](#müssen-an-der-mavic-1-modifikationen-vorgenommen-werden)
 - [Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-easy-auch-an-die-mavic-2-befestigt-werden)
 - [Versionen](#versionen)
   - [Archiv](#archiv)
@@ -46,17 +46,19 @@ Wahlweise ist es auch möglich, einen [SpeedyBee VTX-DVR](https://www.speedybee.
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam zu entfernen und die Drohne als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam, die Mavic mit Hilfe der Sensoren zu landen.
 
-## Müssen an der Drohne Modifikationen vorgenommen werden?
+## Müssen an der Mavic 1 Modifikationen vorgenommen werden?
 
-Durch die Tatsache, dass eine eigene Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie hat.
+Jein. Durch die Tatsache, dass eine separate Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie haben kann.
 
 Der Stromverbrauch des Senders und der Kamera ist sehr klein und beeinflusst die Flugzeit minimal.
 
-Alternativ kann auch auf kleine Akkus zurückgegriffen werden und die BambiKam so ohne Drohnenmodifikation betrieben werden.
+Die BambiKam Easy sieht keine Halterung für einen separaten Akku vor.
+
+Es besteht jedoch die Möglichkeit, dass auf den Akku der Mavic noch ein separater Akku aufgeklebt wird. Dieser Akku würde dann für die Speisung des Transmitters und der Wärmebildkamera zuständig sein.
 
 ## Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?
 
-Ja, die BambiKam Easy ist nun auch an die die Mavic 2 angepasst und die Beschreibung wurde entsprechend erweitert.
+Ja, die BambiKam Easy ist auch an die die Mavic 2 angepasst. Der Strom kann direkt vom Kopter bezogen werden und es sind keine Eingriffe in den Kopter nötig.
 
 ## Versionen
 

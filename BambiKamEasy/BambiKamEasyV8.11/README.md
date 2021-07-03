@@ -1,4 +1,4 @@
-# BambiKam Easy V8.11 01.09.2020
+# BambiKam Easy V8.11 03.07.2021
 
 > Bitte folgende Punkte beachten: [Wichtige/wissenswerte Punkte](#wichtigewissenswerte-punkte)
 
@@ -12,7 +12,7 @@
 - [Warum wurde BambiKam Easy entworfen?](#warum-wurde-bambikam-easy-entworfen)
 - [Zeig her die Bilder! Ich will sehen wie's aussieht!](#zeig-her-die-bilder-ich-will-sehen-wies-aussieht)
 - [Was zeichnet BambiKam Easy aus?](#was-zeichnet-bambikam-easy-aus)
-- [Müssen an der Drohne Modifikationen vorgenommen werden?](#müssen-an-der-drohne-modifikationen-vorgenommen-werden)
+- [Müssen an der Mavic 1 Modifikationen vorgenommen werden?](#müssen-an-der-mavic-1-modifikationen-vorgenommen-werden)
 - [Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?](#kann-die-bambikam-easy-auch-an-die-mavic-2-befestigt-werden)
 - [Lizenz](#lizenz)
 - [Konfiguration der BambiKam Easy](#konfiguration-der-bambikam-easy)
@@ -26,11 +26,15 @@
   - [DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera)
     - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit FLIR Boson 320 50° oder 34°-Kamera](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera)
     - [3D-Druck des Splintens für die Befestigung an der Mavic 2](#3d-druck-des-splintens-für-die-befestigung-an-der-mavic-2)
+  - [DJI Mavic 2 Pro/Zoom mit Thermocam XT384](#dji-mavic-2-prozoom-mit-thermocam-xt384)
+    - [Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit Thermocam XT384](#lasern-von-aviatik-sperrholz-2mm-für-dji-mavic-2-prozoom-mit-thermocam-xt384)
+    - [3D-Druck des Splintens für die Befestigung an der Mavic 2](#3d-druck-des-splintens-für-die-befestigung-an-der-mavic-2-1)
   - [Kamerahalterung drucken](#kamerahalterung-drucken)
     - [Kamerahalterung drucken für die FLIR Boson 320 50° oder 34°-Kamera und dem Low Profile BOSON VPC Interface Module](#kamerahalterung-drucken-für-die-flir-boson-320-50-oder-34-kamera-und-dem-low-profile-boson-vpc-interface-module)
   - [Gehäuse für Transmitter drucken](#gehäuse-für-transmitter-drucken)
     - [Gehäuse für Eachine TX801](#gehäuse-für-eachine-tx801)
     - [Gehäuse für SpeedyBee VTX-DVR](#gehäuse-für-speedybee-vtx-dvr)
+    - [Gehäuse für TBS Unify Pro 5G8 HV](#gehäuse-für-tbs-unify-pro-5g8-hv)
 - [Bausatz zusammenbauen](#bausatz-zusammenbauen)
   - [Abstandhalter auf Grundplatte (Mitte)](#abstandhalter-auf-grundplatte-mitte)
   - [Aufhängung für die Kamera (Rechts)](#aufhängung-für-die-kamera-rechts)
@@ -38,8 +42,10 @@
   - [Anbringen des Transmittergehäuses](#anbringen-des-transmittergehäuses)
     - [Transmittergehäuse für den Eachine TX801-Transmitter](#transmittergehäuse-für-den-eachine-tx801-transmitter)
     - [Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter](#transmittergehäuse-für-den-speedybee-vtx-dvr-transmitter)
+    - [Transmittergehäuse für den TBS Unify Pro 5G8 HV](#transmittergehäuse-für-den-tbs-unify-pro-5g8-hv)
     - [Löten der Verbindungskabel für den TX801-Transmitter](#löten-der-verbindungskabel-für-den-tx801-transmitter)
     - [Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter](#löten-der-verbindungskabel-für-den-speedybee-vtx-dvr-transmitter)
+    - [Löten der Verbindungskabel für den TBS Unify Pro 5G8 HV-Transmitter](#löten-der-verbindungskabel-für-den-tbs-unify-pro-5g8-hv-transmitter)
   - [Verlegen der Kabel](#verlegen-der-kabel)
   - [Sender und Antenne montieren](#sender-und-antenne-montieren)
 - [Montage der Kamera (Endmontage)](#montage-der-kamera-endmontage)
@@ -84,9 +90,17 @@ BambiKam Easy für DJI Mavic 2 Pro/Zoom, FLIR Boson 320/50°-Wärmebildkamera, E
 
 BambiKam Easy für DJI Mavic 2 Pro/Zoom, FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und Speisung via Akkus.
 
-![Fliegende Drohne](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
+![Thermocam XT384](bilder/BambiKam_Easy_Thermocam_XT384.jpg)
+
+BambiKam Easy für DJI Mavic 2 Pro/Zoom, Thermocam XT384-Wärmebildkamera, Eachine TX801-Transmitter.
+
+![Fliegende Mavic 1](bilder/BambiKam_Easy_Unten_Mit_Drohne.jpg)
 
 Fliegende DJI Mavic Pro Platinum mit BambiKam Easy und FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und direkter Stromversorgung.
+
+![Fliegende Mavic 2](bilder/BambiKam_Mavic2_unten_gross.jpg)
+
+Fliegende DJI Mavic 2 Zoom mit BambiKam Easy und FLIR Boson 320/50°-Wärmebildkamera, Eachine TX801-Transmitter und direkter Stromversorgung.
 
 ## Was zeichnet BambiKam Easy aus?
 
@@ -95,7 +109,7 @@ Fliegende DJI Mavic Pro Platinum mit BambiKam Easy und FLIR Boson 320/50°-Wärm
 - Durch die einfache Befestigung der Grundplatte an den hinteren Landekufen der Mavic ist es ganz einfach, die BambiKam Easy zu entfernen und diese so als ganz normale Drohne zu verwenden.
 - Die Grundplatte hat Löcher, welche die Sensoren der Mavic nicht beeinträchtigen. So ist es möglich, auch nach dem Anbringen der BambiKam Easy, die Mavic mit Hilfe der Sensoren zu landen.
 
-## Müssen an der Drohne Modifikationen vorgenommen werden?
+## Müssen an der Mavic 1 Modifikationen vorgenommen werden?
 
 Jein. Durch die Tatsache, dass eine separate Stromversorgung wiederum Gewicht bedeutet und schon eine Stromversorgung der Drohne vorhanden ist, welche verwendet werden kann, um den Sender und die Kamera mit Strom zu versorgen, ist es eine Überlegung wert, die Stromversorgung des Quadcopters anzuzapfen. Selbstverständlich muss man sich der Tatsache bewusst sein, dass dies Auswirkung auf die Herstellergarantie haben kann.
 
@@ -114,7 +128,7 @@ Für eine separate Stromversorgung wären folgende Komponenten nötig:
 
 ## Kann die BambiKam Easy auch an die Mavic 2 befestigt werden?
 
-Ja, die BambiKam Easy ist nun auch an die die Mavic 2 angepasst und die Beschreibung wurde entsprechend erweitert.
+Ja, die BambiKam Easy ist auch an die die Mavic 2 angepasst. Der Strom kann direkt vom Kopter bezogen werden und es sind keine Eingriffe in den Kopter nötig.
 
 ## Lizenz
 
@@ -137,6 +151,7 @@ Kameras [FLIR BOSON](http://www.flir.de/cores/boson/)
 
 - FLIR Boson 320 50°
 - FLIR Boson 320 34°
+- Thermocam XT384
 
 
 [Low Profile BOSON VPC Interface Module](https://www.oemcameras.com/rhp-bos-vpc-if.htm)
@@ -145,19 +160,20 @@ Einfaches Interface, welches das Bild der Kamera in ein Analogsignal umwandelt u
 
 Plattformwahl
 
-Die oben angeführten Quadcopter- und Kamera-Modelle lassen sich mit insgesamt zwei verschiedenen Plattformen abdecken. Für die zwei verschiedenen Mavic-Modelle sind die Ausschnitte der Landekufen und Sensoren unterschiedlich.
+Die oben angeführten Quadcopter- und Kamera-Modelle lassen sich mit insgesamt drei verschiedenen Plattformen abdecken. Für die zwei verschiedenen Mavic-Modelle sind die Ausschnitte der Landekufen und Sensoren unterschiedlich.
 
 |                | DJI Mavic Pro/Platinum                                              | DJI Mavic 2 Pro/Zoom                                              |
 | -------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | FLIR Boson 320 | [Link](#dji-mavic-proplatinum-mit-flir-boson-320-50-oder-34-kamera) | [Link](#dji-mavic-2-prozoom-mit-flir-boson-320-50-oder-34-kamera) |
-|| 
+| Thermocam XT384 | | [Link](#dji-mavic-2-prozoom-mit-thermocam-xt384) |
 
 Transmitterwahl
 
-Die Grundplatte kann zwei verschiedene Transmittergehäuse aufnehmen. Die Wahl des Transmitters hat somit keine Auswirkung auf die Grundplatte.
+Die Grundplatte kann drei verschiedene Transmittergehäuse aufnehmen. Die Wahl des Transmitters hat somit keine Auswirkung auf die Grundplatte.
 
 - [Eachine TX801-Sender](https://www.google.com/search?q=eachine%20tx801)
 - [SpeedyBee VTX-DVR](https://www.speedybee.com/speedy-bee-vtx-dvr/) (Hinweis: Wird nicht mehr hergestellt.)
+- [TBS Unifiy Pro 5G8](https://www.team-blacksheep.com/products/prod:unify_pro_hv)
 
 ## Materialien
 
@@ -216,6 +232,28 @@ Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_320.svg](plan/BambiKam_Easy
 | 4           | Rot     | ignorieren      | ignorieren |
 
 > Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
+#### 3D-Druck des Splintens für die Befestigung an der Mavic 2
+
+![bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png](bilder/BambiKam_Easy_Splinten_fuer_Mavic2.png)
+
+Das STL für den Druck des Splintens [BambiKam_Easy_Splinten_fuer_Mavic2](plan/BambiKam_Easy_Splinten_fuer_Mavic2.stl) kann mit dem 3D-Drucker ausgedruckt werden. Es können gleich zwei Exemplare zur Befestigung verwendet werden.
+
+### DJI Mavic 2 Pro/Zoom mit Thermocam XT384
+
+#### Lasern von Aviatik-Sperrholz 2mm für DJI Mavic 2 Pro/Zoom mit Thermocam XT384
+
+![BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_Thermocam.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_Thermocam.svg)
+
+Das SVG [BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_Thermocam.svg](plan/BambiKam_Easy_Aviatik_Sperrholz_2mm_Mavic_2_Thermocam.svg) soll folgendermassen gelasert werden:
+
+| Reihenfolge | Farbe   | Geschwindigkeit | Intensität |
+| ----------- | ------- | --------------- | ---------- |
+| 1           | Grün    | 1000            | 3%         |
+| 2           | Pink    | 1000            | 65%        |
+| 3           | Schwarz | 1000            | 65%        |
+| 4           | Rot     | ignorieren      | ignorieren |
+
+> Bitte beachten, dass die Holzmaserung gemäss dem roten Pfeil ausgerichtet wird.
 
 #### 3D-Druck des Splintens für die Befestigung an der Mavic 2
 
@@ -237,7 +275,7 @@ Das STL [BambiKam_Easy_Kameragehaeuse_3D-Druck_FLIR_BOSON_LowIF_320.stl](plan/Ba
 
 ### Gehäuse für Transmitter drucken
 
-Die BambiKam Easy kann entweder mit dem Eachine TX801 oder mit dem SpeedyBee VTX-DVR ausgestattet werden.
+Die BambiKam Easy kann entweder mit dem Eachine TX801, mit dem SpeedyBee VTX-DVR oder TBS Unify Pro 5G8 HV ausgestattet werden.
 
 #### Gehäuse für Eachine TX801
 
@@ -250,6 +288,12 @@ Das STL [BambiKam_Easy_Transmittergehaeuse_Eachine_TX801_3D-Druck](plan/BambiKam
 ![BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR.png](bilder/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR.png)
 
 Das STL für den Boden [BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Boden-3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Boden-3D-Druck.stl) und jenes für den Deckel [BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Deckel-3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_SpeedyBee_VTX-DVR-Deckel-3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
+
+#### Gehäuse für TBS Unify Pro 5G8 HV
+
+![BambiKam_Easy_Transmittergehaeuse_TBS_Unify_Pro_5G8_HV.png](bilder/BambiKam_Easy_Transmittergehaeuse_TBS_Unify_Pro_5G8_HV.png)
+
+Das STL [BambiKam_Easy_Transmittergehaeuse_TBS_Unify_Pro_5G8_HV_3D-Druck](plan/BambiKam_Easy_Transmittergehaeuse_TBS_Unify_Pro_5G8_HV_3D-Druck.stl) kann mit dem 3D-Drucker ausgedruckt werden.
 
 ## Bausatz zusammenbauen
 
@@ -269,7 +313,7 @@ Die Orte, wo die Abstandhalter angebracht werden könnten, sind oben in den Bild
 
 Die Stützen für das Kameragehäuse müssen im exakten Innen-Abstand von 27 mm zueinander eingeklebt werden, damit das Kameragehäuse aus dem 3D-Drucker darin Platz findet. Idealerweise montiert man das Kameragehäuse (ohne die Kamera einzubauen) bereits an die Stützen und hat so den perfekten Abstand.
 
-Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden.
+Das Kameragehäuse wird mit zwei Senkkopfschrauben (M2.5, 6mm Länge) von innen her festgeschraubt. Die Muttern liegen aussen. Um die Kamera zu schonen, sollte diese erst später montiert werden. Die Muttern sollten mit etwas Loctite oder Ähnlichem gesichert werden.
 
 ### Lackieren der BambiKam Easy
 
@@ -285,6 +329,10 @@ Das Transmittergehäuse für den TX801-Transmitter wird direkt auf die Grundplat
 
 Das Transmittergehäuse für den SpeedyBee VTX-DVR-Transmitter wird mit dem Deckel nach aussen aufgeklebt. Die Antenne zeigt auch hier nach vorne.
 
+#### Transmittergehäuse für den TBS Unify Pro 5G8 HV
+
+Das Transmittergehäuse für den TBS Unify Pro 5G8 HV-Transmitter wird direkt auf die Grundplatte geklebt. Dabei zeigt die Aufnahme der Antenne nach vorne.
+
 #### Löten der Verbindungskabel für den TX801-Transmitter
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TX801.png)
@@ -296,6 +344,12 @@ Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker gel
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_SpeedyBee-VTX-DVR.png)
 
 Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist ein XT30-Stecker zu sehen.
+
+#### Löten der Verbindungskabel für den TBS Unify Pro 5G8 HV-Transmitter
+
+![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TBS_Unify_Pro_5G8_HV.png)
+
+Mit dem TBS Unify Pro 5G8 HV-Transmitter wird ein Kabel mit einem JST GH 1.25 7-Pin-Stecker geliefert und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Der angebrachte BEC-Stecker am Stromversorgungskabel kann direkt für die Versorgung verwendet werden. Im Bild ist ein XT30-Stecker zu sehen.
 
 ### Verlegen der Kabel
 
