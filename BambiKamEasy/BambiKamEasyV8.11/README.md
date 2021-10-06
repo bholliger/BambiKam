@@ -46,6 +46,7 @@
     - [Löten der Verbindungskabel für den TX801-Transmitter](#löten-der-verbindungskabel-für-den-tx801-transmitter)
     - [Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter](#löten-der-verbindungskabel-für-den-speedybee-vtx-dvr-transmitter)
     - [Löten der Verbindungskabel für den TBS Unify Pro 5G8 HV-Transmitter](#löten-der-verbindungskabel-für-den-tbs-unify-pro-5g8-hv-transmitter)
+    - [Löten der Verbindungskabel für den TX801-Transmitter (XT384-Kamera)](#löten-der-verbindungskabel-für-den-tx801-transmitter-xt384-kamera)
   - [Verlegen der Kabel](#verlegen-der-kabel)
   - [Sender und Antenne montieren](#sender-und-antenne-montieren)
 - [Montage der Kamera (Endmontage)](#montage-der-kamera-endmontage)
@@ -337,19 +338,25 @@ Das Transmittergehäuse für den TBS Unify Pro 5G8 HV-Transmitter wird direkt au
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TX801.png)
 
-Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist ein XT30-Stecker zu sehen.
+Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist beispielhaft ein XT30-Stecker zu sehen.
 
 #### Löten der Verbindungskabel für den SpeedyBee VTX-DVR-Transmitter
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_SpeedyBee-VTX-DVR.png)
 
-Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist ein XT30-Stecker zu sehen.
+Mit dem SpeedyBee VTX-DVR-Transmitter wird ein Kabel mit einem JST SH 1.0 6-Pin-Stecker geliefert (links im Bild) und mit dem Interface ein Kabel mit (ebenfalls) einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist beispielhaft ein XT30-Stecker zu sehen.
 
 #### Löten der Verbindungskabel für den TBS Unify Pro 5G8 HV-Transmitter
 
 ![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TBS_Unify_Pro_5G8_HV.png)
 
-Mit dem TBS Unify Pro 5G8 HV-Transmitter wird ein Kabel mit einem JST GH 1.25 7-Pin-Stecker geliefert und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Der angebrachte BEC-Stecker am Stromversorgungskabel kann direkt für die Versorgung verwendet werden. Im Bild ist ein XT30-Stecker zu sehen.
+Mit dem TBS Unify Pro 5G8 HV-Transmitter wird ein Kabel mit einem JST GH 1.25 7-Pin-Stecker geliefert und mit dem Interface ein Kabel mit einem JST SH 1.0 6-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Der angebrachte BEC-Stecker am Stromversorgungskabel kann direkt für die Versorgung verwendet werden. Im Bild ist beispielhaft ein XT30-Stecker zu sehen.
+
+#### Löten der Verbindungskabel für den TX801-Transmitter (XT384-Kamera)
+
+![Verkabelung](bilder/BambiKam_Easy_Verkabelung_TX801_XT384.png)
+
+Mit dem TX801-Transmitter wird ein Kabel mit einem JST GH 1.25 5-Pin-Stecker geliefert (links im Bild) und mit der XT384-Kamera zwei Kabel mit einem 4-Pin-Stecker und einem 2-Pin-Stecker (rechts im Bild). Die beiden Kabel müssen wie im Bild aneinander gelötet werden. Die beiden Stromversorgungskabel (links unten im Bild) müssen womöglich noch etwas verlängert werden damit diese an der Drohne, welche für die Spannungsversorgung bereits vorbereitet wurde, eingesteckt werden können. Im Bild ist beispielhaft ein XT30-Stecker zu sehen.
 
 ### Verlegen der Kabel
 
